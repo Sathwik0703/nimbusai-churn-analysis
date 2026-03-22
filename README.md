@@ -1,3 +1,5 @@
+<img width="2385" height="744" alt="rfm_segments" src="https://github.com/user-attachments/assets/cbddf498-e07b-4444-9802-738efaede1ca" />
+<img width="1782" height="593" alt="hypothesis_test" src="https://github.com/user-attachments/assets/e014181b-718b-433e-97f5-10c495f00f58" />
 # nimbusai-churn-analysis
 Data Analyst Intern Take-Home Challenge — Churn &amp; Retention Analysis
 # NimbusAI — Churn & Retention Analysis
