@@ -1,0 +1,1205 @@
+customer_id,company_name,plan_tier,segment,r_score,f_score,m_score,rfm_total,recency_days,frequency,monetary,engagement_score,is_churned
+1,Rush Platform,free,Cannot Lose Them,1,3,2,6,214,28,988.7,24.89,1
+2,TrekStack,free,Potential Loyalists,4,1,1,6,157,18,388.21,18.17,0
+3,Wave Group,free,Needs Attention,1,1,3,5,372,19,1519.2699999999998,18.58,0
+4,KeenSoftware,enterprise,Potential Loyalists,4,2,2,8,155,25,1125.7,21.93,0
+5,QuestAnalytics,starter,Loyal Customers,3,4,3,10,160,29,1324.98,25.03,0
+6,RiftWorks,free,Needs Attention,1,1,4,6,452,21,3280.84,20.88,0
+7,PeakIO,free,Champions,4,4,4,12,157,33,4392.51,27.58,0
+8,Data Systems,free,Promising,4,3,2,9,150,26,886.83,23.37,0
+9,Iris Hub,free,Loyal Customers,3,4,4,11,175,31,4243.16,27.71,0
+10,GlowSystems,professional,Lost,2,2,1,5,200,24,307.53,22.37,0
+11,Xenon Cloud,starter,Loyal Customers,4,4,3,11,154,32,1180.0700000000002,28.1,0
+12,QuarkDev,enterprise,Loyal Customers,4,3,3,10,151,28,1997.86,23.2,0
+13,Vertex Labs,free,Potential Loyalists,4,1,1,6,149,17,616.23,17.99,1
+14,Keen Ventures,enterprise,At Risk,2,4,4,10,194,30,3220.7999999999997,25.14,0
+15,DataLogic,starter,Potential Loyalists,4,1,3,8,151,21,1801.1100000000001,21.19,0
+16,Iris Labs,starter,Promising,4,3,1,8,157,26,519.45,25.04,0
+17,DriftCloud,starter,Promising,3,4,1,8,170,31,267.53,26.91,0
+18,LinkIO,professional,Loyal Customers,3,3,3,9,159,26,1785.98,25.09,0
+19,Flow Corp,professional,At Risk,2,4,4,10,183,30,2886.65,27.05,1
+20,AcmeHQ,enterprise,Needs Attention,1,2,3,6,268,23,1316.6,24.85,0
+21,NexusStack,professional,Promising,3,3,2,8,175,25,821.03,22.95,0
+22,Onyx Analytics,professional,Cannot Lose Them,1,3,2,6,242,26,696.78,24.8,0
+23,KitePro,enterprise,Lost,2,2,2,6,182,24,896.6600000000001,23.02,0
+24,TidalStudio,starter,Lost,2,1,1,4,192,19,564.05,21.42,0
+25,PulseSolutions,free,Needs Attention,2,2,3,7,182,24,1975.15,22.95,0
+26,YieldAI,enterprise,Needs Attention,1,2,4,7,222,24,3011.64,21.61,0
+27,WaveStack,professional,Needs Attention,1,2,4,7,228,22,3489.52,21.2,1
+28,Keen Software,starter,At Risk,2,3,3,8,206,26,2071.79,22.28,0
+29,QuestSystems,starter,Lost,2,1,1,4,203,21,326.77,19.1,0
+30,NexusVentures,starter,Potential Loyalists,4,1,4,9,149,12,4572.34,15.83,0
+31,VineSolutions,professional,Needs Attention,1,1,3,5,278,18,2323.3,18.76,0
+32,Arc Stack,starter,Potential Loyalists,4,1,1,6,147,15,441.08,16.35,0
+33,SageDev,professional,Potential Loyalists,3,1,1,5,174,16,247.64999999999998,15.13,0
+34,JadeHQ,professional,Lost,1,2,1,4,232,23,274.15000000000003,21.85,0
+35,PulseAnalytics,starter,Promising,4,3,1,8,156,25,560.6,24.06,0
+36,YieldHub,professional,Lost,2,1,1,4,183,21,502.38,18.18,0
+37,Flux Labs,professional,At Risk,2,3,3,8,185,27,1456.33,25.21,0
+38,FlowStack,enterprise,Promising,4,4,1,9,152,33,539.0699999999999,28.07,0
+39,QuarkTech,free,Needs Attention,2,4,2,8,200,30,935.61,24.87,0
+40,PulseDigital,starter,Potential Loyalists,4,1,4,9,157,18,4933.12,18.99,0
+41,TidalSystems,starter,Potential Loyalists,4,1,4,9,155,21,3401.2400000000002,20.03,0
+42,KeenAI,professional,Potential Loyalists,4,1,2,7,147,14,1058.92,15.94,0
+43,TrekDigital,free,At Risk,2,3,3,8,201,25,1264.9499999999998,21.5,0
+44,Drift Ventures,free,Cannot Lose Them,1,4,2,7,240,29,968.06,24.99,0
+45,JadeLabs,free,Promising,4,4,2,10,148,31,693.3,26.59,0
+46,SagePlatform,free,Needs Attention,2,2,4,8,184,24,2585.15,21.71,0
+47,UltraSystems,starter,Lost,1,1,2,4,354,19,706.8,18.9,0
+48,SyncPlatform,enterprise,Needs Attention,2,3,1,6,211,26,605.01,22.12,1
+49,EchoIO,free,Lost,2,1,2,5,200,18,959.98,17.76,0
+50,Warp Corp,free,Lost,1,1,1,3,309,21,473.82,19.33,0
+51,WarpSoftware,starter,Cannot Lose Them,1,3,1,5,260,27,506.6,25.16,0
+52,Orbit Analytics,free,Lost,2,1,1,4,200,21,389.83,20.3,1
+53,MistPro,free,At Risk,1,3,4,8,238,27,3871.9599999999996,23.06,0
+54,Orbit Ops,free,Loyal Customers,3,3,3,9,160,26,2201.7599999999998,23.38,0
+55,LunaVentures,professional,Potential Loyalists,4,1,3,8,157,19,1404.44,19.81,0
+56,Flow Works,professional,Potential Loyalists,3,1,3,7,168,21,1874.23,19.9,0
+57,OnyxHQ,professional,Potential Loyalists,4,2,1,7,141,22,375.15,21.64,0
+58,Hub HQ,starter,Lost,1,2,2,5,218,23,913.9300000000001,20.67,0
+59,MistDev,starter,Loyal Customers,4,4,3,11,149,29,1749.84,26.21,0
+60,JetHQ,professional,Promising,3,3,2,8,166,26,990.97,25.13,0
+61,UltraPro,free,Needs Attention,2,4,2,8,188,35,732.86,28.72,1
+62,GridDev,starter,Potential Loyalists,4,2,1,7,154,24,33.96,22.82,0
+63,UltraStack,professional,Loyal Customers,4,4,3,11,143,34,1762.92,29.15,1
+64,CoreSolutions,starter,Promising,4,4,1,9,151,31,427.07,27.92,0
+65,Yield Group,free,Lost,1,2,2,5,224,24,985.3199999999999,23.84,0
+66,EdgeHQ,free,At Risk,2,3,3,8,207,27,2189.2,24.82,0
+67,Quest Logic,free,Loyal Customers,3,3,4,10,165,26,6615.02,24.07,0
+68,Quark Ops,enterprise,At Risk,1,4,3,8,300,29,1611.27,25.69,1
+69,Ion Dynamics,free,Loyal Customers,4,3,3,10,144,27,1977.18,25.75,0
+70,JetHub,professional,Lost,2,2,1,5,198,23,362.8,21.35,1
+71,LinkLogic,enterprise,Needs Attention,1,1,4,6,284,20,2521.9,20.79,0
+72,Cloud AI,starter,Loyal Customers,3,3,3,9,163,27,1692.21,25.11,0
+73,LinkPro,starter,Potential Loyalists,4,2,3,9,151,24,1877.34,21.91,0
+74,GridOps,starter,Cannot Lose Them,1,3,2,6,287,28,983.71,25.01,0
+75,NovaTech,free,Potential Loyalists,3,1,1,5,176,18,286.04,18.07,1
+76,Wave Platform,starter,Needs Attention,2,1,4,7,199,18,3373.81,19.9,0
+77,Nexus AI,professional,Promising,4,3,1,8,142,27,458.78999999999996,24.7,0
+78,Rush Group,professional,Lost,2,1,1,4,202,20,462.87,20.65,0
+79,PeakStack,professional,Needs Attention,2,3,2,7,206,27,730.76,25.3,1
+80,JetOps,professional,Cannot Lose Them,1,4,1,6,238,40,321.99,33.38,0
+81,WaveOps,professional,At Risk,2,4,3,9,203,31,1866.8000000000002,27.07,0
+82,Orbit Corp,professional,Loyal Customers,4,4,3,11,156,30,1213.56,26.21,0
+83,LunaDigital,free,At Risk,2,4,3,9,198,35,1193.01,28.91,0
+84,ZealVentures,free,Lost,1,1,2,4,308,21,1034.5,21.33,0
+85,Rift Ops,free,Lost,1,2,1,4,263,24,191.11,21.86,0
+86,Flux Pro,professional,At Risk,1,3,3,7,223,27,1691.8100000000002,24.81,0
+87,UltraVentures,starter,Potential Loyalists,4,2,3,9,156,24,1211.07,21.92,0
+88,FlowCorp,free,Needs Attention,1,1,4,6,255,17,3969.4300000000003,18.38,1
+89,WavePro,enterprise,Needs Attention,2,3,2,7,196,27,813.46,25.26,0
+90,DriftHub,starter,Champions,4,4,4,12,152,30,2763.81,28.2,0
+91,LinkAI,starter,Lost,2,2,1,5,197,23,312.09,22.07,0
+92,DriftVentures,free,Lost,2,2,2,6,190,22,730.1800000000001,21.51,0
+93,TrekTech,professional,Promising,3,3,2,8,179,27,1074.21,26.91,0
+94,OnyxStack,free,Needs Attention,2,3,1,6,212,25,530.44,22.68,1
+95,PeakNet,professional,Lost,1,2,1,4,218,24,505.67,22.68,0
+96,PeakOps,enterprise,Loyal Customers,4,3,3,10,147,26,1153.98,25.34,1
+97,QuestWorks,starter,Potential Loyalists,3,1,4,8,175,17,3073.3599999999997,18.65,0
+98,Vine HQ,starter,Potential Loyalists,3,1,1,5,171,20,651.1,19.53,0
+99,GlowDev,free,Potential Loyalists,3,2,2,7,158,23,856.75,21.18,0
+100,SyncTech,starter,Cannot Lose Them,1,3,2,6,295,25,809.1,23.76,0
+101,PulseLogic,free,Champions,4,4,4,12,149,29,2737.24,23.75,0
+102,Flow Labs,starter,Promising,3,3,2,8,167,26,1027.95,24.59,1
+103,EdgeSystems,starter,Loyal Customers,4,3,3,10,149,28,1781.71,23.04,0
+104,Hive Dynamics,professional,Lost,2,1,1,4,197,21,563.0799999999999,21.32,0
+105,UnitOps,starter,Loyal Customers,3,3,4,10,161,28,2544.74,26.19,0
+106,OnyxSolutions,free,Potential Loyalists,4,2,1,7,148,23,153.94,21.72,0
+107,QuarkAI,free,Promising,3,4,2,9,178,33,746.13,27.99,0
+108,VertexSolutions,starter,Lost,2,1,2,5,194,20,825.41,19.55,1
+109,TidalHQ,starter,Potential Loyalists,3,1,4,8,163,18,2405.2,18.51,0
+110,EdgeOps,starter,At Risk,2,4,3,9,194,31,1892.08,27.89,1
+111,XenonLogic,professional,Loyal Customers,3,3,3,9,175,26,1668.84,23.29,0
+112,Hive Logic,enterprise,Loyal Customers,4,4,3,11,152,35,1887.68,31.22,0
+113,CoreTech,professional,Needs Attention,2,3,1,6,185,26,601.9000000000001,24.56,0
+114,Meta Digital,enterprise,Needs Attention,2,4,2,8,208,31,854.74,27.85,1
+115,HiveCorp,starter,Loyal Customers,4,3,4,11,146,25,2852.1099999999997,22.14,0
+116,BeamDev,starter,Promising,3,4,2,9,173,32,1037.27,25.48,0
+117,Onyx Cloud,free,Promising,4,3,1,8,152,26,468.21000000000004,23.81,0
+118,Peak Hub,starter,Needs Attention,2,3,1,6,191,28,356.66,24.27,0
+119,EchoPlatform,professional,Needs Attention,1,2,3,6,275,24,1780.1299999999999,22.95,0
+120,UnitStudio,free,Needs Attention,2,1,3,6,185,18,1161.17,17.98,1
+121,KeenPro,professional,Needs Attention,2,3,2,7,184,25,1019.22,24.1,0
+122,Sync IO,starter,Needs Attention,2,2,3,7,191,22,1161.88,20.16,0
+123,Jade Software,starter,Needs Attention,2,2,4,8,196,23,2444.94,21.12,0
+124,XenonWorks,professional,Lost,1,1,2,4,219,19,713.88,18.1,0
+125,UltraGroup,professional,Promising,4,4,1,9,145,31,172.93,26.91,0
+126,RiftSystems,enterprise,Needs Attention,1,2,3,6,225,23,1444.9099999999999,22.24,0
+127,Onyx Pro,professional,Needs Attention,2,3,2,7,211,25,1047.81,24.61,0
+128,GlowHub,starter,Loyal Customers,3,4,3,10,168,29,1521.07,26.56,0
+129,IrisWorks,professional,Potential Loyalists,4,2,2,8,142,24,1093.79,21.93,0
+130,ZealCloud,starter,Promising,4,3,1,8,144,27,612.7,24.26,0
+131,Sync Net,enterprise,Lost,2,2,2,6,179,22,900.99,20.59,0
+132,PulseAI,starter,Loyal Customers,4,3,4,11,156,25,3110.42,24.2,1
+133,Sync Works,starter,Promising,4,4,1,9,146,31,536.9200000000001,28.44,0
+134,Vine Cloud,professional,Cannot Lose Them,1,4,1,6,255,29,581.2,26.99,0
+135,RushSoftware,free,Potential Loyalists,3,2,2,7,172,23,975.71,23.68,0
+136,Ion IO,starter,Promising,3,3,1,7,173,28,470.28,26.29,0
+137,Tidal Solutions,professional,Needs Attention,2,1,4,7,184,21,3808.9,18.81,0
+138,ArcNet,starter,Potential Loyalists,4,2,4,10,148,24,2967.2299999999996,21.78,0
+139,DataDynamics,professional,Loyal Customers,4,4,3,11,153,29,1738.33,25.26,0
+140,DriftDigital,professional,Cannot Lose Them,1,4,2,7,378,29,825.08,25.12,1
+141,IrisAI,professional,Promising,3,4,2,9,161,32,1025.58,27.02,0
+142,YieldTech,professional,Needs Attention,2,3,2,7,193,26,894.89,23.26,0
+143,IrisCorp,starter,At Risk,1,3,4,8,232,25,3058.8300000000004,23.93,0
+144,Mist AI,enterprise,Loyal Customers,4,4,3,11,145,30,1807.0200000000002,28.54,0
+145,Unit Ventures,professional,Potential Loyalists,4,2,3,9,149,24,1912.48,22.33,0
+146,OnyxOps,professional,Potential Loyalists,4,2,3,9,148,23,1145.66,22.57,0
+147,PulsePlatform,starter,Cannot Lose Them,1,4,2,7,214,34,953.15,29.08,0
+148,XenonTech,professional,Potential Loyalists,4,2,1,7,145,24,333.90999999999997,23.27,0
+149,EchoSoftware,free,Potential Loyalists,3,2,1,6,173,24,389.78,21.8,0
+150,IrisStack,starter,Loyal Customers,3,3,4,10,175,28,5187.15,24.7,0
+151,Jade Ventures,starter,At Risk,1,3,3,7,220,25,1219.13,21.6,0
+152,QuarkHub,starter,Potential Loyalists,3,2,4,9,170,24,3219.08,22.36,0
+153,HiveAI,starter,Loyal Customers,3,4,3,10,174,30,1147.74,25.89,1
+154,Iris Dynamics,starter,Promising,4,4,2,10,142,33,817.23,28.61,0
+155,GridSystems,free,Lost,1,2,2,5,244,22,806.99,20.57,0
+156,TidalOps,free,Potential Loyalists,4,2,1,7,145,24,570.6,21.13,1
+157,KeenSystems,free,Promising,4,4,1,9,147,30,560.75,25.47,0
+158,Nova Ventures,starter,Lost,1,1,1,3,217,20,479.66999999999996,20.02,0
+159,Vine Studio,enterprise,Promising,3,4,2,9,167,37,1030.24,31.45,0
+160,FluxPlatform,free,Loyal Customers,4,4,3,11,142,38,1253.2199999999998,30.75,0
+161,VineLogic,starter,Needs Attention,2,1,4,7,207,19,4151.9400000000005,16.93,0
+162,FlowStudio,starter,Promising,3,3,2,8,164,26,852.53,23.25,0
+163,Rush Cloud,free,Needs Attention,2,4,2,8,197,34,934.07,29.95,0
+164,Acme Logic,professional,Promising,3,3,2,8,178,25,868.33,24.36,0
+165,Zen Works,free,Needs Attention,1,1,3,5,287,21,1769.83,21.48,0
+166,Zeal Dynamics,free,Lost,2,2,1,5,190,23,622.9,21.65,0
+167,Quest Digital,free,Potential Loyalists,3,1,4,8,178,13,2984.6299999999997,15.69,0
+168,XenonNet,professional,Loyal Customers,3,3,4,10,158,25,2592.2599999999998,22.28,1
+169,Quark Platform,free,At Risk,2,3,3,8,181,27,2102.38,25.37,0
+170,WaveLabs,free,Lost,2,2,2,6,182,22,835.6800000000001,21.39,0
+171,UnitNet,starter,Potential Loyalists,3,2,1,6,158,24,383.13,22.26,0
+172,JadeSolutions,free,Loyal Customers,3,3,3,9,166,26,1845.11,25.72,0
+173,Rush Hub,free,Promising,4,4,2,10,151,31,992.58,28.11,1
+174,NexusLogic,professional,Potential Loyalists,3,2,2,7,168,23,1008.8100000000001,22.72,1
+175,Yield Corp,free,Cannot Lose Them,1,3,2,6,215,25,764.8,23.41,0
+176,MetaLogic,enterprise,Potential Loyalists,4,1,4,9,147,21,4544.09,20.74,0
+177,Iris Cloud,starter,Potential Loyalists,4,2,1,7,151,22,259.45,19.05,0
+178,WarpPro,free,At Risk,2,4,3,9,209,29,1500.9,24.95,0
+179,Vine Ventures,professional,Loyal Customers,3,4,4,11,177,31,7021.540000000001,24.98,1
+180,Rush Dev,professional,Promising,3,3,2,8,176,25,976.39,25.28,0
+181,PulseHub,professional,Promising,4,4,1,9,145,37,257.67,31.17,0
+182,SageStudio,starter,Lost,1,1,1,3,280,20,558.83,18.79,0
+183,BeamSoftware,starter,Needs Attention,2,4,1,7,201,33,522.57,28.88,0
+184,BoltSystems,professional,Lost,2,1,1,4,196,21,259.95,20.35,1
+185,XenonOps,free,Needs Attention,2,2,4,8,191,24,2902.54,22.48,1
+186,AcmeLabs,starter,Potential Loyalists,4,2,3,9,155,24,2339.35,19.59,1
+187,Hive Ventures,starter,Needs Attention,1,1,4,6,259,20,2875.55,19.5,0
+188,GridDigital,starter,Potential Loyalists,3,2,2,7,175,22,933.35,21.4,0
+189,Quest Cloud,starter,Promising,4,3,1,8,151,25,539.0600000000001,23.6,0
+190,Acme Studio,starter,At Risk,2,4,3,9,187,31,1255.4599999999998,27.28,0
+191,Data Logic,starter,Promising,3,3,1,7,176,25,575.5899999999999,23.35,0
+192,GlowSoftware,starter,Potential Loyalists,4,2,3,9,150,22,2011.71,21.18,0
+193,PulseTech,free,Potential Loyalists,3,2,1,6,175,24,537.34,23.59,1
+194,Zeal Analytics,starter,Needs Attention,2,2,3,7,199,23,1221.76,22.25,0
+195,Kite Analytics,enterprise,At Risk,2,3,4,9,183,27,4825.58,25.59,1
+196,CloudDynamics,professional,Potential Loyalists,3,1,3,7,158,18,1636.01,15.03,0
+197,LunaPlatform,professional,Potential Loyalists,3,1,2,6,169,21,1001.57,20.36,0
+198,DriftStudio,starter,Needs Attention,2,2,3,7,203,22,1801.83,20.88,0
+199,VertexLabs,free,Potential Loyalists,3,1,4,8,165,17,4128.18,18.66,1
+200,XenonHQ,professional,Promising,4,4,1,9,156,32,599.51,27.89,0
+201,ZenNet,professional,At Risk,2,3,4,9,209,25,3275.77,22.83,1
+202,CoreCloud,enterprise,At Risk,2,4,4,10,180,29,3569.45,25.44,0
+203,Tidal Analytics,starter,Loyal Customers,3,3,4,10,158,28,3590.8500000000004,25.67,0
+204,IonSoftware,free,Lost,2,1,2,5,197,20,867.9399999999999,19.98,1
+205,HubAI,professional,Needs Attention,2,4,2,8,205,30,1021.91,26.62,0
+206,RushHQ,enterprise,Promising,3,4,1,8,171,42,356.16999999999996,33.3,0
+207,OnyxDynamics,free,Potential Loyalists,4,1,3,8,148,19,1510.58,18.46,0
+208,Echo Dev,starter,Needs Attention,2,2,4,8,195,22,2394.6,21.04,0
+209,KeenLogic,enterprise,At Risk,1,3,3,7,291,26,2249.0,23.7,0
+210,FluxDynamics,professional,Lost,1,1,2,4,250,16,849.7,18.29,0
+211,Trek Digital,starter,Loyal Customers,3,3,4,10,170,25,4475.89,24.45,0
+212,OnyxIO,free,At Risk,1,4,4,9,240,34,2430.3900000000003,30.27,0
+213,Sage Ventures,starter,At Risk,2,4,4,10,180,35,3885.03,29.04,1
+214,UltraSolutions,enterprise,Potential Loyalists,3,1,4,8,160,17,4151.679999999999,16.75,0
+215,ArcSolutions,starter,Needs Attention,2,1,4,7,212,21,3542.6299999999997,20.64,0
+216,SyncLabs,professional,Needs Attention,2,3,2,7,183,26,869.16,23.42,0
+217,PeakSolutions,free,Lost,1,1,1,3,223,20,352.85,19.93,0
+218,Keen Dynamics,starter,Needs Attention,1,1,3,5,260,16,1916.15,17.1,1
+219,TidalLogic,professional,At Risk,1,3,3,7,252,28,1325.69,25.55,1
+220,GridTech,enterprise,Potential Loyalists,4,1,1,6,149,20,582.99,20.57,0
+221,KeenPlatform,professional,Potential Loyalists,4,2,1,7,155,23,481.68,23.08,1
+222,Beam Tech,enterprise,Cannot Lose Them,1,3,1,5,332,26,457.90999999999997,21.22,0
+223,RushDev,starter,At Risk,2,3,4,9,206,26,2587.4599999999996,23.69,0
+224,GridVentures,free,Loyal Customers,4,3,3,10,145,25,1201.44,22.05,1
+225,CloudLogic,starter,Potential Loyalists,3,1,4,8,163,21,2641.0099999999998,20.63,0
+226,OrbitDigital,free,Champions,4,4,4,12,149,31,3795.88,27.62,0
+227,DataDev,starter,Potential Loyalists,3,1,2,6,165,15,1075.68,17.18,0
+228,DriftAI,professional,Loyal Customers,3,4,3,10,159,29,2028.4,24.4,0
+229,LinkDynamics,professional,Needs Attention,1,1,3,5,323,16,2338.6800000000003,17.93,0
+230,PeakPlatform,starter,Needs Attention,2,4,2,8,207,30,969.42,27.12,0
+231,OrbitAnalytics,starter,Potential Loyalists,4,1,3,8,141,19,1785.1299999999999,19.23,0
+232,Quest Studio,professional,Potential Loyalists,3,1,1,5,163,21,626.8,20.42,0
+233,Hive Hub,starter,Needs Attention,1,1,3,5,250,21,1929.74,20.28,0
+234,LinkNet,professional,Loyal Customers,4,3,3,10,148,27,1318.08,25.28,0
+235,SyncSystems,free,Needs Attention,1,1,4,6,221,21,3212.7,19.51,0
+236,ArcWorks,starter,Lost,1,1,2,4,242,16,681.01,14.82,1
+237,HiveCloud,free,Needs Attention,1,2,3,6,234,23,1476.26,21.1,0
+238,VertexStack,professional,Promising,4,3,2,9,151,25,664.9300000000001,23.23,0
+239,IonGroup,professional,Lost,1,1,1,3,247,21,395.21000000000004,20.14,0
+240,Unit Platform,professional,Loyal Customers,3,4,3,10,166,33,1871.38,26.73,1
+241,BeamOps,starter,Potential Loyalists,3,1,1,5,168,21,323.42,20.85,0
+242,HubStudio,professional,Cannot Lose Them,1,4,2,7,244,35,829.5,28.03,1
+243,YieldSystems,free,Needs Attention,2,1,4,7,182,15,6003.4,17.18,0
+244,Grid IO,starter,Lost,1,2,2,5,277,22,820.08,22.07,1
+245,Quest Tech,starter,Champions,4,4,4,12,143,31,2793.5499999999997,25.78,1
+246,Luna AI,starter,At Risk,2,3,3,8,201,25,1462.08,22.76,1
+247,VertexStudio,starter,Champions,4,4,4,12,153,33,2370.7799999999997,29.04,0
+248,Sage Pro,professional,Potential Loyalists,3,2,3,8,159,22,1975.73,22.15,0
+249,RiftPro,professional,Potential Loyalists,4,1,4,9,154,20,2911.35,20.29,0
+250,SageNet,professional,Potential Loyalists,3,1,3,7,168,17,1481.06,18.16,0
+251,AcmeStack,free,Needs Attention,1,1,4,6,214,18,2730.42,18.53,0
+252,Core Ventures,free,Needs Attention,2,1,4,7,206,20,2546.0299999999997,18.7,1
+253,Quest HQ,enterprise,Lost,1,1,2,4,291,19,1047.28,19.16,0
+254,GridHub,starter,At Risk,1,4,4,9,426,30,2540.07,25.85,1
+255,GridAnalytics,starter,Lost,1,1,2,4,250,21,927.8000000000001,20.75,1
+256,DriftOps,professional,Potential Loyalists,4,2,4,10,149,22,2617.51,19.6,0
+257,Ion Systems,starter,Promising,4,4,1,9,147,30,638.26,27.38,0
+258,Mist Net,professional,Potential Loyalists,3,2,2,7,170,24,1065.94,22.07,0
+259,RiftDigital,professional,Loyal Customers,3,3,4,10,175,27,2581.45,23.47,0
+260,IrisCloud,free,Promising,3,4,2,9,161,33,700.56,28.75,0
+261,JetAI,free,Potential Loyalists,4,1,3,8,150,20,1858.6,19.55,0
+262,Yield Logic,professional,Lost,1,1,2,4,237,21,681.1,18.28,0
+263,WarpVentures,professional,Loyal Customers,3,3,4,10,167,25,4377.6900000000005,22.94,0
+264,Link Analytics,free,Needs Attention,1,1,3,5,229,17,1269.09,18.05,0
+265,FluxVentures,professional,Potential Loyalists,3,2,3,8,168,23,1133.1799999999998,20.93,0
+266,NovaOps,free,Needs Attention,1,2,4,7,291,23,2519.4,22.71,0
+267,CloudOps,starter,Potential Loyalists,3,1,1,5,169,16,539.52,16.3,0
+268,PeakSoftware,free,Lost,1,1,1,3,242,19,343.84,18.38,0
+269,NovaDynamics,free,Potential Loyalists,4,2,4,10,144,23,2415.33,22.05,0
+270,JadeTech,professional,Needs Attention,2,1,4,7,205,20,3027.08,20.47,0
+271,SageTech,free,Promising,4,3,1,8,146,25,95.05,22.14,0
+272,JetCloud,free,Cannot Lose Them,1,3,1,5,217,28,522.25,24.76,0
+273,TidalSoftware,starter,Lost,2,1,2,5,185,15,971.0400000000001,17.1,0
+274,WarpDynamics,professional,At Risk,2,3,3,8,198,26,1270.01,24.49,0
+275,GridCloud,enterprise,Potential Loyalists,3,2,4,9,173,24,5033.56,24.68,0
+276,UltraPlatform,professional,At Risk,1,4,4,9,226,29,4517.389999999999,26.85,0
+277,Mist Tech,free,At Risk,2,4,3,9,210,29,1799.94,26.23,1
+278,Cloud Dynamics,enterprise,Potential Loyalists,3,2,2,7,167,22,1068.93,20.07,0
+279,ZenStudio,professional,Promising,4,3,2,9,147,28,702.27,26.84,0
+280,VinePro,starter,Promising,3,3,1,7,167,28,637.27,27.01,0
+281,EchoHQ,free,Promising,4,4,1,9,156,34,462.54999999999995,28.7,0
+282,XenonVentures,free,Needs Attention,2,1,4,7,212,20,2409.55,19.78,0
+283,GlowDigital,professional,Lost,2,2,2,6,197,22,1058.51,20.93,1
+284,EchoOps,free,Promising,4,3,2,9,148,27,735.35,24.89,1
+285,Luna Dev,enterprise,Needs Attention,1,2,3,6,246,22,1922.4099999999999,22.67,0
+286,KitePlatform,professional,At Risk,2,3,3,8,179,28,1295.47,25.69,0
+287,Bolt Software,starter,Potential Loyalists,3,1,1,5,168,20,458.08000000000004,18.42,0
+288,FlowIO,free,Promising,3,4,2,9,175,34,922.65,29.25,0
+289,OrbitIO,starter,Promising,4,3,2,9,146,27,746.12,23.72,0
+290,SyncGroup,starter,Needs Attention,2,1,3,6,179,21,1769.42,20.51,0
+291,Beam Stack,professional,Promising,4,4,1,9,142,30,280.51,27.09,0
+292,LunaStudio,free,At Risk,2,4,3,9,187,38,1737.39,31.08,1
+293,GridSoftware,professional,At Risk,2,4,3,9,213,33,1276.34,28.78,0
+294,UnitLogic,professional,Needs Attention,1,2,4,7,225,22,4580.97,20.35,1
+295,NexusSolutions,professional,Needs Attention,2,2,3,7,179,23,1409.62,21.02,0
+296,WaveStudio,starter,Potential Loyalists,4,2,2,8,142,24,688.86,22.24,1
+297,Core Logic,enterprise,Promising,4,3,2,9,146,25,974.62,22.59,1
+298,Ultra Corp,starter,Promising,4,3,1,8,147,27,390.77,24.56,0
+299,Keen Analytics,professional,Lost,1,1,2,4,233,18,853.47,16.19,0
+300,Flow Ops,professional,Promising,3,4,2,9,174,29,1127.87,25.01,0
+301,FluxSolutions,professional,Potential Loyalists,4,1,3,8,155,19,1147.1200000000001,18.12,0
+302,DriftSystems,starter,Needs Attention,2,4,1,7,184,29,511.74,26.96,0
+303,EchoGroup,starter,Champions,4,4,4,12,151,29,2981.49,25.91,0
+304,Pulse Dynamics,starter,Promising,3,4,1,8,161,30,235.66000000000003,24.86,0
+305,Keen AI,enterprise,Promising,4,3,2,9,145,26,755.71,24.73,0
+306,MetaVentures,starter,Loyal Customers,4,3,4,11,142,25,4251.09,24.07,0
+307,KiteStack,starter,Needs Attention,2,1,3,6,182,20,1734.31,20.44,0
+308,MistStack,free,Potential Loyalists,4,1,4,9,152,17,3023.18,19.43,1
+309,NovaSolutions,professional,Loyal Customers,4,4,3,11,155,32,1209.78,27.43,1
+310,Hive Solutions,starter,Potential Loyalists,3,2,2,7,169,24,970.8199999999999,20.47,0
+311,LinkGroup,enterprise,Lost,2,2,1,5,198,24,565.76,23.68,0
+312,SageIO,enterprise,Potential Loyalists,3,2,4,9,164,23,3067.0800000000004,20.52,0
+313,TrekPro,free,Lost,1,1,1,3,224,19,206.15,18.54,0
+314,ArcSoftware,professional,Potential Loyalists,3,1,2,6,167,21,1073.0,20.21,1
+315,RushDigital,free,Needs Attention,2,1,4,7,187,20,2774.32,17.57,0
+316,VertexTech,starter,Champions,4,4,4,12,144,34,2953.58,30.42,0
+317,Zeal HQ,starter,Promising,4,3,2,9,154,25,798.69,23.42,0
+318,Jade Dev,enterprise,Loyal Customers,4,3,3,10,157,27,1134.81,24.86,0
+319,LinkSystems,starter,Loyal Customers,4,4,3,11,143,37,1664.5500000000002,29.49,0
+320,Wave Stack,free,At Risk,2,3,3,8,207,25,1633.88,22.52,0
+321,BoltNet,free,Needs Attention,2,1,4,7,182,16,3372.73,17.22,0
+322,RushGroup,professional,Promising,3,3,2,8,173,25,1122.0900000000001,23.89,0
+323,NexusStudio,starter,Potential Loyalists,4,1,2,7,151,19,1005.21,19.07,0
+324,Hive Ops,enterprise,Lost,1,1,1,3,239,10,513.72,13.42,0
+325,Trek Tech,professional,Loyal Customers,4,4,3,11,155,33,1153.1100000000001,28.06,0
+326,NexusAnalytics,professional,Needs Attention,1,2,4,7,246,23,2680.24,21.53,1
+327,JadePro,starter,Promising,4,3,1,8,154,25,484.8,22.95,0
+328,IrisGroup,starter,Potential Loyalists,4,2,2,8,151,24,924.89,22.98,0
+329,ZenLabs,free,Lost,2,2,1,5,204,24,394.76,22.07,0
+330,JadeDev,free,Lost,1,1,2,4,334,18,787.06,16.97,0
+331,UnitWorks,professional,Loyal Customers,3,3,4,10,165,28,4197.34,26.15,0
+332,WaveCorp,free,Potential Loyalists,3,2,1,6,164,24,246.23,23.04,1
+333,ZenHQ,free,Champions,4,4,4,12,146,31,5763.320000000001,25.04,0
+334,ZenDev,professional,Loyal Customers,4,4,3,11,146,34,2335.72,28.45,0
+335,ZealCorp,professional,Loyal Customers,3,3,3,9,170,28,1864.4299999999998,25.19,0
+336,WaveGroup,enterprise,Cannot Lose Them,1,3,1,5,270,26,281.94,25.52,0
+337,Nexus Digital,starter,At Risk,2,3,3,8,199,25,1445.48,23.62,0
+338,JadeIO,enterprise,Potential Loyalists,3,1,4,8,159,21,2984.0,20.98,1
+339,DataHQ,starter,Promising,4,3,1,8,150,28,410.68,24.39,0
+340,OrbitLogic,free,Promising,3,4,1,8,172,30,332.90999999999997,27.01,0
+341,VertexIO,starter,Loyal Customers,3,4,4,11,175,37,3051.31,30.6,0
+342,Vertex Logic,starter,Potential Loyalists,4,1,2,7,149,16,867.9,15.76,1
+343,PeakDigital,free,Needs Attention,1,2,3,6,214,22,1399.09,22.97,0
+344,PeakVentures,free,Needs Attention,1,2,4,7,302,23,2357.92,22.24,0
+345,Zeal Software,professional,Loyal Customers,4,3,3,10,157,25,1200.33,22.83,0
+346,SageHub,free,Needs Attention,2,3,2,7,199,25,716.15,25.52,1
+347,ArcPlatform,professional,Potential Loyalists,4,1,1,6,143,19,339.43,20.8,0
+348,Vine Logic,free,Promising,4,3,2,9,150,25,906.12,23.0,0
+349,HiveDynamics,enterprise,Potential Loyalists,3,2,4,9,159,23,2925.02,21.43,0
+350,DriftSolutions,professional,Potential Loyalists,3,2,4,9,159,22,6698.83,22.23,1
+351,LunaHQ,starter,Potential Loyalists,4,1,4,9,157,13,2527.34,13.91,1
+352,UnitDev,free,Needs Attention,2,2,3,7,183,24,1815.8400000000001,23.41,1
+353,ArcCloud,free,Loyal Customers,4,3,4,11,155,27,4211.42,24.36,0
+354,Link Ops,starter,Needs Attention,2,2,4,8,180,24,2979.44,22.51,0
+355,Cloud Ops,starter,Loyal Customers,3,3,4,10,175,26,3030.14,24.65,0
+356,DriftPro,professional,Loyal Customers,4,3,4,11,149,25,2375.35,23.3,0
+357,VertexDev,free,Potential Loyalists,4,2,2,8,153,22,697.0,21.77,0
+358,BeamGroup,professional,Needs Attention,1,2,4,7,305,22,4497.360000000001,21.65,0
+359,TrekCloud,starter,At Risk,2,3,4,9,206,26,8655.6,24.45,0
+360,Sync Analytics,enterprise,At Risk,1,4,3,8,228,29,2208.35,27.51,0
+361,MetaWorks,professional,Needs Attention,2,4,1,7,179,36,517.3199999999999,30.17,0
+362,Hive Cloud,starter,Lost,2,2,1,5,193,22,584.08,22.01,0
+363,VertexLogic,starter,Needs Attention,2,3,2,7,180,25,1094.5,24.5,0
+364,LunaSystems,professional,Needs Attention,2,1,4,7,202,21,3105.44,20.39,0
+365,Grid Dev,starter,Loyal Customers,4,4,3,11,153,30,1672.93,27.7,0
+366,VertexHQ,starter,Lost,1,2,1,4,234,22,569.3199999999999,21.34,0
+367,Hub Labs,free,Promising,4,4,2,10,147,31,751.31,26.3,0
+368,NexusWorks,starter,Loyal Customers,4,4,3,11,144,29,1134.07,27.46,0
+369,MetaNet,starter,Loyal Customers,3,4,4,11,159,35,2624.67,29.0,0
+370,Xenon Logic,starter,Needs Attention,1,2,4,7,430,22,5340.55,21.17,1
+371,ZealStudio,free,Promising,3,4,1,8,159,29,500.55,25.84,0
+372,NexusPlatform,professional,Potential Loyalists,3,1,1,5,165,20,556.8100000000001,17.83,0
+373,VineNet,enterprise,Needs Attention,2,1,4,7,183,19,2468.32,19.99,0
+374,UltraIO,free,Promising,3,4,1,8,164,29,467.71000000000004,27.83,1
+375,TidalVentures,professional,Cannot Lose Them,1,3,2,6,219,27,740.14,24.32,0
+376,XenonDynamics,free,Promising,4,3,2,9,149,26,749.12,24.63,0
+377,ZenLogic,starter,Potential Loyalists,3,2,2,7,171,24,763.87,21.08,0
+378,Bolt Digital,professional,Potential Loyalists,4,2,2,8,143,23,897.95,21.94,0
+379,BeamDynamics,enterprise,Potential Loyalists,3,2,1,6,165,22,24.02,21.79,0
+380,KeenIO,starter,Loyal Customers,4,4,3,11,149,39,2237.42,31.07,0
+381,EchoStack,free,Potential Loyalists,4,1,4,9,149,20,2629.5899999999997,19.75,0
+382,Cloud Net,professional,Potential Loyalists,4,1,2,7,156,19,1114.44,18.65,1
+383,Glow Tech,starter,At Risk,2,3,4,9,181,28,5573.59,24.6,0
+384,QuestHQ,enterprise,Needs Attention,2,2,3,7,183,24,2329.54,23.51,0
+385,WarpCorp,enterprise,Lost,1,1,2,4,247,20,942.69,20.61,0
+386,EchoCloud,starter,Needs Attention,1,2,4,7,223,24,2896.29,24.4,1
+387,GridDynamics,enterprise,Potential Loyalists,4,1,4,9,142,16,3726.3599999999997,16.44,0
+388,MetaDev,free,Needs Attention,2,4,2,8,190,37,763.1800000000001,32.34,1
+389,CloudLabs,free,Loyal Customers,3,3,3,9,162,28,1807.8300000000002,25.01,1
+390,Sync HQ,professional,Needs Attention,2,3,1,6,182,26,490.23,24.1,1
+391,QuarkSolutions,professional,Needs Attention,2,3,1,6,191,26,273.28000000000003,23.08,0
+392,Keen Pro,professional,At Risk,1,3,3,7,258,25,1816.75,22.93,1
+393,EchoCorp,free,Lost,1,1,2,4,225,17,957.28,19.13,0
+394,DataStack,professional,Needs Attention,2,1,3,6,195,20,1770.54,19.6,0
+395,TidalNet,enterprise,Lost,2,1,1,4,192,19,423.28,19.01,1
+396,Data Works,professional,Loyal Customers,4,3,4,11,147,27,3451.83,23.41,0
+397,EdgeAI,professional,Potential Loyalists,3,2,1,6,177,22,446.09,21.19,1
+398,Meta Corp,starter,Promising,4,3,2,9,149,27,964.3800000000001,22.7,0
+399,LinkSolutions,free,Promising,3,3,2,8,172,25,897.04,22.08,0
+400,Flux Tech,professional,Needs Attention,1,2,3,6,263,24,1702.25,23.39,0
+401,Core Corp,starter,Potential Loyalists,4,1,4,9,150,21,2757.93,20.97,0
+402,MetaSystems,starter,Needs Attention,2,1,3,6,201,20,1889.19,17.87,0
+403,RiftIO,professional,Loyal Customers,4,3,4,11,144,26,2435.37,24.38,0
+404,Bolt IO,starter,Promising,3,3,1,7,176,27,283.65,24.5,0
+405,GridPlatform,free,Potential Loyalists,4,2,2,8,155,24,1086.96,22.06,0
+406,UnitSoftware,professional,Potential Loyalists,3,2,1,6,164,24,470.57,22.13,0
+407,MistSolutions,starter,Potential Loyalists,4,2,4,10,143,23,3776.44,20.28,0
+408,AcmePro,starter,Loyal Customers,4,4,3,11,147,29,1228.26,26.12,0
+409,EchoPro,free,Loyal Customers,4,3,3,10,143,27,1380.8,23.92,1
+410,NovaDigital,starter,Potential Loyalists,3,2,2,7,168,24,844.4300000000001,23.33,0
+411,ZealDigital,starter,Needs Attention,2,1,4,7,201,21,3571.8900000000003,19.67,0
+412,SageGroup,professional,Potential Loyalists,3,1,3,7,172,21,1734.1,18.81,0
+413,YieldStudio,professional,Potential Loyalists,4,1,3,8,151,16,1161.5600000000002,16.63,0
+414,UltraStudio,starter,Potential Loyalists,3,2,4,9,163,23,3437.52,21.1,1
+415,CoreGroup,professional,Needs Attention,1,1,4,6,277,20,2481.33,18.01,1
+416,NovaDev,enterprise,Promising,4,3,1,8,152,25,590.76,24.23,1
+417,ArcVentures,professional,Cannot Lose Them,1,3,1,5,216,25,593.8199999999999,21.63,0
+418,KiteGroup,starter,Needs Attention,2,2,4,8,182,23,3766.1099999999997,21.86,1
+419,JetStudio,free,Promising,4,3,2,9,149,26,786.2,24.66,0
+420,Sync Hub,free,Promising,4,4,1,9,142,30,567.53,26.39,0
+421,TidalLabs,starter,Needs Attention,2,1,4,7,207,19,2528.41,17.86,0
+422,BoltTech,free,Potential Loyalists,4,2,3,9,143,24,1968.4500000000003,21.89,1
+423,SyncStudio,enterprise,At Risk,2,4,3,9,179,30,1666.8,25.59,1
+424,IonVentures,professional,At Risk,2,3,3,8,196,25,1274.27,22.88,1
+425,MetaSolutions,enterprise,Loyal Customers,3,4,3,10,165,31,1450.48,27.31,0
+426,TidalStack,starter,Potential Loyalists,3,1,2,6,169,18,659.12,18.29,0
+427,EchoVentures,starter,Promising,4,3,1,8,152,25,602.44,23.12,1
+428,Xenon Corp,enterprise,Cannot Lose Them,1,4,1,6,244,32,187.54000000000002,25.48,1
+429,UltraOps,starter,Potential Loyalists,3,1,2,6,170,21,949.02,20.66,0
+430,Jet Dev,starter,Lost,1,1,2,4,232,19,967.98,18.42,0
+431,ArcHQ,starter,Lost,1,2,1,4,328,24,486.05,22.79,0
+432,Hub Platform,starter,Needs Attention,2,2,4,8,211,23,3624.31,22.3,0
+433,BoltHub,professional,Cannot Lose Them,1,3,2,6,217,28,722.61,24.7,0
+434,Meta Solutions,enterprise,Needs Attention,1,1,4,6,265,19,2670.09,18.29,0
+435,Link Hub,starter,Cannot Lose Them,1,3,1,5,242,28,452.77,25.56,1
+436,CoreOps,free,Cannot Lose Them,1,4,1,6,243,32,632.1,28.25,1
+437,Ultra IO,free,Lost,1,1,1,3,216,21,310.08000000000004,18.98,0
+438,EdgeIO,starter,Lost,2,2,1,5,190,23,587.63,22.22,1
+439,Meta Works,professional,Promising,3,3,2,8,158,25,1015.64,22.58,0
+440,WaveIO,enterprise,Potential Loyalists,4,1,4,9,156,18,4725.16,19.46,0
+441,LunaLogic,free,Needs Attention,1,2,3,6,250,24,1637.54,23.3,0
+442,Warp AI,professional,Loyal Customers,4,4,3,11,145,30,2157.67,26.92,0
+443,Trek Logic,starter,Potential Loyalists,4,2,3,9,146,22,1501.1299999999999,20.9,0
+444,NexusOps,professional,Potential Loyalists,4,2,4,10,156,24,3500.46,22.98,1
+445,Pulse Platform,free,Needs Attention,2,1,3,6,189,18,2174.0099999999998,17.62,1
+446,RushLabs,free,At Risk,1,4,4,9,258,30,4984.29,25.09,0
+447,Beam Software,starter,Promising,4,4,1,9,149,35,310.34000000000003,30.48,0
+448,Vertex Analytics,starter,Potential Loyalists,3,2,4,9,159,23,3045.3700000000003,22.2,0
+449,QuarkGroup,free,Promising,4,3,2,9,150,27,1022.19,25.78,0
+450,RushStack,starter,Needs Attention,2,3,2,7,198,26,1103.64,23.56,1
+451,Arc Analytics,free,Lost,2,1,2,5,204,20,974.77,20.89,1
+452,Rush Digital,free,Needs Attention,1,1,3,5,253,18,1228.53,19.65,0
+453,ArcStudio,professional,Promising,4,3,1,8,147,25,503.99,24.49,1
+454,MistSystems,free,Lost,1,1,1,3,230,20,386.8,18.89,1
+455,HubWorks,professional,At Risk,2,4,4,10,210,34,2959.74,27.66,0
+456,VineOps,free,Lost,2,2,2,6,184,24,832.75,22.78,1
+457,Warp Platform,free,Potential Loyalists,4,2,2,8,154,23,688.4300000000001,21.83,0
+458,VertexNet,starter,Potential Loyalists,4,2,4,10,144,23,2704.62,21.85,0
+459,SageLabs,enterprise,Lost,2,1,1,4,201,19,129.79,18.76,0
+460,MistOps,professional,Potential Loyalists,3,2,1,6,172,22,631.32,21.53,0
+461,Bolt Dynamics,professional,Needs Attention,2,3,1,6,181,27,324.32,23.7,0
+462,Trek Dev,starter,Promising,3,3,2,8,176,28,881.6,23.68,0
+463,IonCorp,starter,Needs Attention,2,1,4,7,180,20,4870.25,19.22,0
+464,Ion Works,professional,Lost,2,2,2,6,182,22,714.4200000000001,22.28,0
+465,MistNet,enterprise,Needs Attention,1,1,3,5,220,14,1881.5099999999998,16.66,0
+466,Ultra Net,starter,Needs Attention,2,2,3,7,189,23,1356.3400000000001,20.24,0
+467,NexusHub,starter,Champions,4,4,4,12,151,31,3070.1499999999996,28.37,0
+468,Drift Corp,professional,Needs Attention,2,2,3,7,187,24,1304.29,22.65,0
+469,SyncSolutions,professional,Promising,3,4,2,9,160,31,988.14,27.15,1
+470,Rift Systems,free,Potential Loyalists,3,2,3,8,164,24,1219.05,22.03,0
+471,CloudStack,starter,Potential Loyalists,4,2,4,10,152,22,2936.0,22.38,0
+472,Pulse Hub,professional,Potential Loyalists,3,2,2,7,162,24,715.66,23.75,0
+473,VineCloud,starter,Promising,4,4,1,9,146,33,129.5,26.97,0
+474,Onyx Corp,starter,Lost,2,2,2,6,211,22,966.0899999999999,22.35,0
+475,IonOps,professional,Lost,2,2,2,6,188,22,898.5899999999999,21.72,0
+476,WaveAnalytics,starter,Needs Attention,1,2,3,6,273,22,1503.03,19.31,1
+477,Vine Group,starter,Needs Attention,1,2,3,6,221,23,1398.24,21.37,0
+478,TidalGroup,starter,Promising,4,3,1,8,148,25,92.59,23.79,1
+479,NovaIO,enterprise,Needs Attention,2,4,2,8,188,29,914.62,27.33,1
+480,Zen AI,enterprise,Promising,4,4,1,9,153,33,334.25,28.14,0
+481,FluxLogic,enterprise,Lost,2,1,1,4,197,17,643.36,16.47,0
+482,EchoSystems,professional,Promising,3,4,1,8,163,31,378.71999999999997,27.68,0
+483,IonCloud,free,Needs Attention,1,1,3,5,394,16,1801.33,16.29,0
+484,GridCorp,free,Cannot Lose Them,1,3,2,6,227,26,998.7,24.36,0
+485,EdgeWorks,professional,At Risk,1,3,3,7,232,27,1907.45,23.68,0
+486,TrekAI,enterprise,Lost,2,2,2,6,189,24,848.53,21.67,0
+487,Hub Software,starter,At Risk,2,3,4,9,202,26,2939.44,23.48,1
+488,MetaHQ,free,Needs Attention,2,1,4,7,184,20,4152.42,19.93,0
+489,Warp Hub,free,At Risk,2,4,4,10,188,31,3897.24,26.58,0
+490,ZealLabs,enterprise,Promising,3,3,2,8,165,27,899.5,24.87,1
+491,ArcLogic,free,Needs Attention,2,1,4,7,179,21,3418.25,20.07,0
+492,NexusGroup,starter,Loyal Customers,3,3,3,9,159,25,1226.35,24.3,0
+493,Flow Dev,professional,Potential Loyalists,4,2,3,9,145,23,2166.92,21.69,0
+494,UnitAI,free,Promising,3,4,2,9,168,30,1066.3500000000001,25.02,0
+495,Trek Ventures,professional,Promising,4,3,2,9,149,27,953.75,24.35,0
+496,Beam Digital,starter,At Risk,1,4,3,8,273,29,1279.56,26.62,0
+497,HiveSystems,free,Loyal Customers,4,3,4,11,150,27,2975.69,23.17,1
+498,XenonCloud,professional,Loyal Customers,3,3,4,10,174,26,6295.549999999999,23.58,0
+499,AcmeSystems,starter,Promising,3,4,2,9,159,30,954.4,27.74,0
+500,WarpDigital,professional,Cannot Lose Them,1,3,2,6,240,28,733.86,25.0,0
+501,Flow Solutions,free,Potential Loyalists,4,1,2,7,142,14,1094.29,15.94,1
+502,WarpIO,free,Needs Attention,1,1,4,6,233,16,4849.139999999999,17.55,0
+503,Bolt Works,professional,Needs Attention,2,3,2,7,182,27,672.07,24.29,1
+504,Nexus Works,enterprise,Lost,1,1,2,4,240,21,698.5,18.58,0
+505,Mist Ventures,free,Lost,1,1,1,3,287,19,449.53,19.08,0
+506,BoltAnalytics,starter,Potential Loyalists,3,1,1,5,177,19,632.9200000000001,18.93,1
+507,IrisSolutions,starter,Potential Loyalists,4,2,2,8,157,22,913.49,21.24,1
+508,Glow Cloud,professional,Needs Attention,1,2,3,6,356,22,1805.04,19.84,0
+509,WarpNet,professional,Lost,1,2,2,5,231,22,663.04,21.12,0
+510,RiftSolutions,starter,Needs Attention,2,3,1,6,189,28,382.59,25.01,0
+511,WaveLogic,free,Promising,4,4,2,10,146,31,981.67,26.65,1
+512,RiftNet,starter,Loyal Customers,4,4,3,11,146,30,1773.11,26.05,0
+513,AcmeSoftware,free,Lost,2,2,2,6,194,23,700.89,21.46,0
+514,Edge Digital,professional,Potential Loyalists,4,1,2,7,143,19,1059.45,20.48,0
+515,AcmeCorp,professional,Needs Attention,2,1,3,6,210,19,1878.24,19.47,0
+516,DataAnalytics,professional,Lost,1,1,1,3,254,21,586.15,23.24,0
+517,Tidal Tech,enterprise,Promising,4,3,2,9,155,27,929.28,25.48,1
+518,HivePlatform,starter,Loyal Customers,4,3,4,11,147,25,2587.6000000000004,23.26,0
+519,IonAI,starter,Lost,1,2,2,5,221,24,685.7,23.16,0
+520,OrbitGroup,professional,Loyal Customers,3,3,4,10,159,26,2552.94,23.76,0
+521,HiveWorks,starter,Cannot Lose Them,1,4,2,7,274,33,677.4399999999999,28.28,0
+522,GlowStack,professional,Lost,1,2,2,5,328,24,1019.6,22.96,1
+523,PulseDev,starter,Lost,1,1,1,3,215,18,214.04,19.28,1
+524,LinkVentures,free,Champions,4,4,4,12,153,32,4255.23,29.04,1
+525,VertexPro,enterprise,Lost,1,2,1,4,218,23,300.04,23.26,1
+526,Quark Pro,free,Potential Loyalists,4,2,4,10,154,24,2629.99,23.11,0
+527,VertexSoftware,professional,Lost,2,1,1,4,201,20,497.83,19.12,0
+528,MetaSoftware,free,Potential Loyalists,4,1,4,9,148,21,2404.77,21.21,1
+529,IonDev,starter,Promising,3,4,2,9,164,31,1092.57,28.58,0
+530,FluxDev,starter,Needs Attention,1,1,3,5,220,20,2183.49,20.72,0
+531,NovaPlatform,free,Needs Attention,1,1,4,6,351,21,3159.35,19.45,0
+532,SyncHQ,starter,Potential Loyalists,3,1,1,5,160,20,127.74000000000001,19.3,0
+533,Edge Studio,starter,Needs Attention,2,1,4,7,198,15,2502.98,15.41,1
+534,QuarkCloud,professional,At Risk,2,3,3,8,202,26,2124.13,22.71,0
+535,ZenVentures,professional,Promising,3,3,1,7,161,27,649.52,24.75,0
+536,UnitHQ,enterprise,Potential Loyalists,4,2,3,9,146,24,1617.54,23.29,1
+537,VineLabs,starter,Loyal Customers,3,4,3,10,170,29,2292.18,25.7,0
+538,IonDigital,free,Loyal Customers,4,3,3,10,152,28,2237.29,24.63,0
+539,GridWorks,enterprise,Potential Loyalists,4,1,2,7,151,20,745.77,21.95,0
+540,Quest Dev,free,Needs Attention,1,1,4,6,451,13,3230.46,16.15,1
+541,TidalCorp,starter,Potential Loyalists,3,2,3,8,173,24,1340.67,23.57,0
+542,ZenGroup,free,Potential Loyalists,4,2,2,8,150,23,785.73,21.11,0
+543,Nexus Pro,professional,Promising,3,3,1,7,178,27,315.39,23.58,1
+544,SagePro,enterprise,Champions,4,4,4,12,157,32,3740.8100000000004,26.48,0
+545,Sage Ops,enterprise,At Risk,2,3,4,9,193,27,2396.06,23.87,0
+546,Jade Ops,enterprise,Promising,3,3,1,7,169,26,535.4300000000001,23.15,1
+547,Trek AI,professional,At Risk,1,3,3,7,242,28,1343.04,25.58,0
+548,Zeal Logic,starter,Potential Loyalists,3,1,2,6,161,21,695.74,20.85,0
+549,QuestSolutions,professional,Needs Attention,2,4,1,7,192,30,648.55,23.49,0
+550,Ultra Solutions,starter,At Risk,1,4,4,9,218,38,2644.3199999999997,30.8,0
+551,FluxSystems,starter,Lost,2,1,2,5,185,21,1070.17,20.52,0
+552,Bolt Group,starter,Needs Attention,2,1,4,7,181,19,3238.36,18.61,0
+553,TidalPlatform,starter,Lost,1,2,1,4,214,24,311.37,24.49,0
+554,Ultra Stack,professional,Needs Attention,2,4,1,7,193,31,392.84000000000003,28.31,0
+555,QuestPlatform,starter,Promising,4,4,1,9,154,31,598.07,27.96,1
+556,Link Dynamics,starter,Potential Loyalists,4,2,2,8,152,24,853.04,21.28,0
+557,KeenHQ,free,Lost,1,1,1,3,241,20,419.39,21.12,0
+558,FlowHub,professional,Loyal Customers,4,3,4,11,155,26,2572.5,24.24,0
+559,VertexDigital,professional,At Risk,2,4,3,9,179,28,1222.05,25.61,0
+560,FluxCloud,starter,Needs Attention,2,1,4,7,197,21,3427.4300000000003,19.12,0
+561,GlowNet,starter,Potential Loyalists,4,1,3,8,157,21,2103.15,19.32,0
+562,SageOps,starter,Loyal Customers,4,3,3,10,143,26,1971.3700000000001,24.23,1
+563,HiveSoftware,starter,Needs Attention,1,2,4,7,215,22,3347.3199999999997,22.13,0
+564,GridStack,free,Needs Attention,2,4,1,7,205,29,549.77,26.92,0
+565,Xenon Solutions,starter,Potential Loyalists,4,1,1,6,153,17,350.13,15.67,0
+566,QuarkCorp,professional,Needs Attention,1,1,4,6,294,20,2380.2999999999997,18.47,0
+567,Acme Ops,starter,Needs Attention,1,1,4,6,283,13,2629.82,13.73,0
+568,VertexWorks,free,Promising,3,3,2,8,172,25,836.94,23.24,0
+569,Hive Analytics,starter,Needs Attention,1,1,4,6,277,17,2612.34,17.47,1
+570,VineWorks,professional,Promising,3,4,2,9,160,33,857.27,30.23,0
+571,Meta Net,professional,Lost,1,1,1,3,265,20,275.43,20.65,0
+572,KiteHQ,enterprise,Lost,2,2,2,6,186,23,848.29,23.08,1
+573,UnitAnalytics,professional,At Risk,2,3,4,9,207,27,3065.7099999999996,24.79,0
+574,PeakWorks,free,Needs Attention,2,2,3,7,181,23,2271.31,21.03,0
+575,VineVentures,enterprise,Promising,3,4,2,9,160,28,755.4,25.9,1
+576,UltraHub,professional,Loyal Customers,3,4,4,11,166,34,3622.4399999999996,29.09,0
+577,FluxOps,enterprise,Needs Attention,1,2,3,6,286,24,1399.6699999999998,22.54,0
+578,TrekVentures,starter,At Risk,2,3,4,9,180,26,5747.86,24.85,0
+579,Zeal Solutions,professional,Needs Attention,2,3,1,6,206,27,596.74,24.4,0
+580,WarpLogic,enterprise,Lost,2,2,2,6,186,23,974.05,22.5,0
+581,Sage IO,free,Potential Loyalists,4,2,2,8,151,22,968.59,22.13,0
+582,YieldCorp,free,At Risk,1,3,4,8,223,26,2729.0699999999997,23.66,0
+583,Flux Cloud,free,Potential Loyalists,3,2,2,7,174,22,1003.05,20.62,0
+584,Flow Systems,professional,Needs Attention,2,4,2,8,185,29,924.75,27.09,0
+585,YieldIO,starter,At Risk,1,4,4,9,240,31,2442.38,27.22,0
+586,EdgeDev,professional,At Risk,2,4,3,9,185,28,1459.3,25.76,0
+587,Nova Stack,professional,Lost,1,1,2,4,233,21,836.28,19.59,0
+588,QuestDynamics,starter,Loyal Customers,3,4,4,11,171,29,4982.08,24.91,0
+589,Tidal Software,free,Needs Attention,1,1,3,5,216,18,2092.74,19.13,0
+590,DriftTech,starter,Loyal Customers,3,4,3,10,173,31,1201.9,27.46,0
+591,ArcDigital,starter,At Risk,2,4,4,10,203,29,4324.83,25.89,0
+592,HubSolutions,free,Promising,4,4,1,9,147,29,493.25,26.06,0
+593,Vine Ops,free,Champions,4,4,4,12,143,34,2530.44,28.91,1
+594,UnitStack,enterprise,Potential Loyalists,4,1,3,8,148,19,2329.4,18.53,0
+595,FlowSolutions,free,Loyal Customers,3,3,4,10,164,25,3163.7999999999997,23.7,0
+596,SageDynamics,free,At Risk,1,3,3,7,224,25,1629.6,25.06,0
+597,LunaTech,professional,Potential Loyalists,3,2,3,8,166,23,1623.85,21.49,0
+598,SyncCloud,enterprise,At Risk,1,4,4,9,236,31,3135.69,27.35,0
+599,DriftGroup,professional,Potential Loyalists,3,1,3,7,161,17,1294.5900000000001,19.37,1
+600,HiveDev,starter,Lost,1,2,1,4,234,23,239.35,21.67,0
+601,GridHQ,free,Needs Attention,2,2,3,7,189,23,1542.33,19.6,1
+602,Echo Ops,starter,Potential Loyalists,4,2,2,8,151,22,744.74,21.11,0
+603,IonSystems,starter,Promising,3,4,2,9,178,30,1041.16,26.96,0
+604,Jet Pro,enterprise,Promising,4,3,2,9,143,27,756.4200000000001,25.03,1
+605,BeamLabs,free,Needs Attention,1,1,4,6,214,20,2784.68,20.96,0
+606,HubAnalytics,professional,Cannot Lose Them,1,3,1,5,275,25,341.25,22.98,0
+607,Flux Studio,starter,Promising,4,4,1,9,145,28,505.54999999999995,24.47,0
+608,Link Logic,free,Lost,1,1,2,4,215,20,831.64,18.26,0
+609,TidalPro,free,Loyal Customers,3,4,3,10,177,32,2203.84,25.88,0
+610,Arc Dev,enterprise,Promising,3,3,1,7,176,26,536.48,24.39,1
+611,RiftDynamics,free,At Risk,1,4,3,8,242,28,1712.31,24.52,1
+612,Hub Solutions,starter,At Risk,1,3,3,7,223,26,1256.63,24.16,0
+613,MistStudio,professional,Loyal Customers,4,4,3,11,155,33,1514.21,27.48,0
+614,QuestHub,starter,Potential Loyalists,3,2,1,6,174,23,339.64,21.1,0
+615,Unit Corp,starter,Potential Loyalists,3,2,4,9,168,22,2882.93,20.93,0
+616,KiteSolutions,enterprise,Promising,4,3,2,9,153,26,743.6700000000001,24.64,1
+617,AcmeHub,free,Lost,1,1,1,3,232,18,473.17,21.71,1
+618,Echo Hub,starter,Lost,1,1,1,3,220,14,470.31,16.26,0
+619,Orbit Labs,starter,Potential Loyalists,4,2,2,8,143,23,820.23,20.98,0
+620,OrbitSystems,starter,Needs Attention,2,2,3,7,199,22,2235.75,20.56,1
+621,NexusCloud,starter,Needs Attention,1,1,4,6,237,19,3558.33,19.69,0
+622,JetLogic,free,Promising,3,3,1,7,169,26,179.34,24.73,0
+623,FluxCorp,enterprise,At Risk,2,4,3,9,181,38,1512.8,31.06,0
+624,ArcDev,free,Potential Loyalists,4,1,2,7,142,19,787.68,18.54,0
+625,DataStudio,enterprise,Lost,2,1,1,4,209,20,394.34,21.21,0
+626,Unit Labs,starter,Promising,3,4,1,8,178,28,583.64,24.78,1
+627,Luna IO,starter,Loyal Customers,3,4,3,10,163,33,2269.17,28.44,0
+628,Kite Labs,starter,Loyal Customers,3,3,3,9,177,27,1824.1100000000001,23.38,0
+629,FlowDev,enterprise,Needs Attention,2,4,1,7,201,28,471.8,25.31,0
+630,Xenon Stack,professional,Needs Attention,2,2,4,8,186,24,3089.3,22.72,1
+631,Cloud Platform,starter,Loyal Customers,3,3,4,10,172,27,2879.2799999999997,23.58,0
+632,Warp Logic,starter,Promising,4,3,2,9,144,26,1068.31,23.2,0
+633,Jet Ops,starter,Needs Attention,1,1,3,5,225,20,1502.2999999999997,18.96,0
+634,CoreDigital,professional,Loyal Customers,4,4,3,11,157,30,1697.83,27.82,1
+635,Tidal Dynamics,free,Promising,4,3,2,9,147,25,984.49,23.51,0
+636,QuarkIO,starter,Lost,1,1,2,4,245,16,756.03,18.94,0
+637,CoreStudio,free,Lost,2,1,2,5,188,19,1031.6,17.66,1
+638,Kite Ventures,free,Champions,4,4,4,12,142,28,2503.21,25.82,0
+639,ZenHub,free,Cannot Lose Them,1,4,2,7,260,30,930.4300000000001,28.12,1
+640,MistHub,free,Needs Attention,1,2,4,7,221,23,7815.6900000000005,21.89,0
+641,Zen Tech,free,Needs Attention,2,1,3,6,189,19,2206.53,18.38,1
+642,KiteSoftware,professional,Potential Loyalists,3,1,1,5,161,20,643.9100000000001,18.81,0
+643,EdgePro,professional,Needs Attention,1,1,4,6,232,20,2431.41,20.97,0
+644,Nova Pro,starter,Loyal Customers,3,4,4,11,163,30,4995.799999999999,27.0,0
+645,BoltCloud,starter,Promising,3,4,1,8,168,33,381.79,27.63,0
+646,LunaDynamics,starter,Loyal Customers,4,3,3,10,155,25,2036.35,23.5,0
+647,Vine Hub,professional,Lost,2,1,1,4,187,19,544.28,20.56,0
+648,DriftCorp,starter,Lost,1,2,2,5,301,24,823.77,21.18,0
+649,Arc AI,professional,Needs Attention,2,1,3,6,200,18,1457.6799999999998,18.56,0
+650,Peak Logic,starter,Loyal Customers,4,3,4,11,151,26,3076.7200000000003,23.38,0
+651,Ultra Software,starter,At Risk,1,4,3,8,244,32,1515.21,26.19,0
+652,DriftStack,starter,At Risk,1,3,3,7,256,26,1408.32,23.78,0
+653,RushTech,free,Lost,1,2,1,4,287,22,405.68,22.11,0
+654,Bolt Corp,professional,Cannot Lose Them,1,4,1,6,269,28,594.38,25.13,0
+655,QuestVentures,enterprise,Needs Attention,2,4,1,7,186,34,308.34,28.97,0
+656,MistLabs,free,Potential Loyalists,3,2,1,6,158,23,592.23,22.58,0
+657,Flow Studio,starter,Potential Loyalists,3,1,1,5,162,21,525.86,19.61,1
+658,ZenSystems,free,Needs Attention,2,4,2,8,206,29,958.52,24.59,0
+659,MistLogic,professional,Cannot Lose Them,1,3,1,5,225,26,483.67,24.64,0
+660,Nova Ops,starter,At Risk,1,3,3,7,278,27,1843.8500000000001,23.1,0
+661,MistSoftware,enterprise,Promising,3,4,2,9,175,31,754.01,26.95,0
+662,Flux IO,free,Lost,1,1,2,4,338,18,746.55,20.61,1
+663,Peak Labs,professional,Cannot Lose Them,1,4,1,6,264,31,534.34,28.47,1
+664,FluxStack,starter,Cannot Lose Them,1,3,1,5,224,27,585.26,23.14,0
+665,Xenon Dynamics,enterprise,Potential Loyalists,3,2,1,6,171,24,348.0,23.12,0
+666,Ion Ventures,professional,Promising,4,4,1,9,157,29,577.5400000000001,26.21,1
+667,PulseOps,free,Lost,1,1,2,4,224,18,915.3199999999999,18.14,0
+668,LinkHub,professional,Potential Loyalists,4,2,2,8,151,22,998.69,21.43,0
+669,Rush Corp,free,Needs Attention,1,1,3,5,255,21,1769.84,19.91,1
+670,Jade Tech,free,Lost,1,1,2,4,400,17,716.34,16.97,1
+671,Luna Group,starter,Cannot Lose Them,1,4,2,7,241,28,914.66,24.62,1
+672,RushPlatform,starter,Loyal Customers,3,4,4,11,169,28,2621.3399999999997,25.66,0
+673,Glow Net,professional,At Risk,2,3,4,9,180,26,3682.6099999999997,22.79,0
+674,Quark Tech,starter,Potential Loyalists,3,1,2,6,176,17,773.53,18.48,1
+675,OrbitDev,starter,Potential Loyalists,3,2,3,8,159,22,1787.06,23.17,0
+676,WaveCloud,free,Lost,2,2,1,5,203,22,200.34,22.14,1
+677,SageCorp,professional,Needs Attention,2,3,2,7,180,26,1089.2,22.43,0
+678,QuarkOps,starter,Lost,2,1,2,5,191,21,1112.18,20.03,0
+679,Rift Digital,professional,Loyal Customers,3,3,4,10,178,26,2971.7999999999997,23.39,0
+680,DataIO,starter,Potential Loyalists,3,1,2,6,165,17,795.19,17.5,0
+681,Unit Software,free,Potential Loyalists,4,1,1,6,157,19,590.11,19.43,0
+682,KeenCorp,enterprise,Potential Loyalists,4,1,3,8,152,16,1249.85,17.54,0
+683,Core Net,professional,Needs Attention,2,1,3,6,179,20,2150.17,19.61,1
+684,Tidal Platform,starter,Potential Loyalists,4,1,1,6,145,21,241.54,20.43,0
+685,Peak Systems,starter,At Risk,1,4,4,9,223,31,2665.7,27.32,0
+686,SageSoftware,free,Cannot Lose Them,1,3,1,5,283,27,469.31,25.8,0
+687,Edge Labs,enterprise,Lost,1,2,1,4,232,24,462.51,22.94,0
+688,ZenIO,free,At Risk,1,4,4,9,281,28,2692.09,24.33,0
+689,KiteDev,free,Needs Attention,2,1,4,7,192,19,2383.65,20.28,0
+690,HubVentures,starter,At Risk,1,4,3,8,298,33,1602.21,30.15,0
+691,AcmeSolutions,professional,Potential Loyalists,4,2,3,9,154,22,1609.53,23.3,1
+692,RushHub,free,Potential Loyalists,3,2,2,7,173,21,906.5500000000001,20.6,0
+693,IonNet,free,Promising,3,4,2,9,167,30,661.21,26.63,1
+694,GridSolutions,free,Lost,2,2,1,5,197,23,567.05,22.44,0
+695,YieldDigital,enterprise,Potential Loyalists,3,2,2,7,174,23,702.14,22.81,0
+696,LinkLabs,professional,Loyal Customers,3,3,4,10,174,25,4429.53,24.19,0
+697,EchoDev,enterprise,Needs Attention,2,3,2,7,183,27,721.02,27.22,0
+698,DataGroup,professional,Loyal Customers,4,3,4,11,153,26,2757.67,24.66,0
+699,Sage Systems,free,Potential Loyalists,3,2,4,9,176,21,2713.92,21.05,1
+700,WarpOps,professional,Needs Attention,2,3,1,6,191,25,354.96000000000004,21.21,0
+701,Cloud IO,professional,Promising,3,4,2,9,170,29,688.4,27.26,1
+702,RiftOps,free,Lost,1,2,2,5,379,21,945.62,19.97,0
+703,WaveSoftware,free,Needs Attention,2,1,4,7,196,20,6627.96,19.59,1
+704,DataDigital,enterprise,Needs Attention,2,1,3,6,201,16,1445.76,18.17,0
+705,IrisSoftware,professional,Promising,3,3,1,7,172,26,295.41999999999996,23.54,0
+706,TrekGroup,free,Potential Loyalists,4,2,4,10,157,22,3394.71,22.07,0
+707,PeakHub,starter,Potential Loyalists,3,2,3,8,178,24,2292.49,22.98,1
+708,Luna Ops,professional,At Risk,1,3,3,7,274,26,1442.75,23.92,0
+709,UnitGroup,starter,Potential Loyalists,4,2,4,10,153,22,3695.89,21.19,0
+710,BeamVentures,starter,Loyal Customers,3,4,3,10,158,32,1322.69,28.86,0
+711,FlowPlatform,professional,Potential Loyalists,3,1,2,6,161,17,870.78,18.56,0
+712,Cloud Studio,enterprise,Lost,1,2,1,4,273,21,279.51,20.96,0
+713,Onyx Solutions,professional,Needs Attention,2,2,3,7,186,24,2176.44,22.23,0
+714,DataNet,starter,At Risk,1,4,3,8,253,28,2258.9,25.32,0
+715,Beam Cloud,professional,Lost,1,1,2,4,220,19,786.02,19.35,0
+716,Mist Software,professional,Lost,2,1,1,4,184,20,589.14,20.28,0
+717,Edge Platform,professional,Potential Loyalists,3,2,2,7,163,24,806.48,23.49,0
+718,Keen Cloud,enterprise,At Risk,2,4,3,9,184,29,1186.69,26.81,1
+719,GlowTech,starter,Loyal Customers,3,3,3,9,168,26,2146.19,24.03,0
+720,MistAnalytics,free,Loyal Customers,3,4,4,11,166,33,5270.72,27.81,0
+721,Quark Hub,enterprise,Potential Loyalists,3,2,2,7,169,21,1093.67,20.52,0
+722,Sage Dynamics,professional,Needs Attention,2,3,2,7,205,25,765.56,21.82,0
+723,CoreCorp,enterprise,Promising,3,3,1,7,161,25,327.13,23.85,0
+724,JetLabs,professional,Loyal Customers,3,4,3,10,162,39,1396.16,33.51,1
+725,SyncWorks,free,At Risk,1,4,4,9,248,28,3264.04,26.69,0
+726,Kite Cloud,professional,Promising,4,4,1,9,151,37,136.07999999999998,29.73,0
+727,MistAI,free,Loyal Customers,4,4,3,11,146,30,1409.5500000000002,25.52,0
+728,HubHQ,enterprise,Needs Attention,1,1,4,6,270,20,3886.2400000000002,17.95,1
+729,Sage Works,starter,Cannot Lose Them,1,3,1,5,242,27,391.01,24.27,0
+730,Echo Digital,starter,Lost,1,2,1,4,274,23,530.99,21.32,0
+731,Yield Stack,enterprise,At Risk,2,3,4,9,202,26,3255.27,24.08,0
+732,SyncCorp,free,Lost,2,2,2,6,196,22,684.1899999999999,21.47,0
+733,FluxGroup,starter,Needs Attention,2,2,3,7,190,23,1178.05,21.19,0
+734,KeenSolutions,professional,Needs Attention,2,1,3,6,189,17,1887.04,17.98,0
+735,ZealHub,starter,Needs Attention,2,2,4,8,179,23,2569.72,21.36,0
+736,AcmeAI,professional,Promising,3,3,1,7,171,25,511.3,23.14,0
+737,ZenDigital,enterprise,Promising,3,3,1,7,159,27,175.07999999999998,26.01,0
+738,GridPro,starter,Potential Loyalists,4,1,4,9,154,20,3031.94,19.39,0
+739,YieldCloud,starter,Potential Loyalists,4,2,3,9,156,24,1573.79,23.99,0
+740,CorePlatform,enterprise,Lost,2,2,2,6,203,21,979.88,20.83,0
+741,Jet Logic,free,Promising,3,4,1,8,161,34,542.0699999999999,27.7,0
+742,CloudWorks,professional,Promising,4,3,1,8,144,26,600.4,22.61,0
+743,GlowDynamics,free,Lost,1,1,1,3,267,20,450.14,19.96,1
+744,CloudCorp,enterprise,Needs Attention,2,3,2,7,213,26,940.3199999999999,22.42,0
+745,NovaGroup,free,At Risk,1,4,4,9,260,34,2996.71,28.36,0
+746,EchoTech,starter,Potential Loyalists,4,1,2,7,151,19,1050.08,19.37,0
+747,Meta Analytics,professional,Potential Loyalists,3,2,2,7,172,22,1106.0900000000001,23.5,0
+748,Nova Analytics,starter,At Risk,2,4,4,10,179,30,3702.3599999999997,27.27,0
+749,Orbit Software,starter,Needs Attention,2,4,1,7,192,29,648.8100000000001,25.8,1
+750,TidalDev,free,Loyal Customers,3,4,4,11,171,29,5412.45,26.29,0
+751,Xenon HQ,starter,Loyal Customers,3,4,4,11,158,29,3388.17,26.35,0
+752,AcmeVentures,professional,Needs Attention,2,2,4,8,202,22,2742.05,22.77,1
+753,TrekIO,starter,Needs Attention,2,1,3,6,187,15,2001.42,17.93,0
+754,Ion Tech,free,Potential Loyalists,4,2,2,8,149,21,926.62,20.47,0
+755,VertexOps,free,Loyal Customers,3,3,3,9,167,27,1824.68,22.74,0
+756,Core AI,free,Needs Attention,1,1,4,6,415,19,4953.76,17.32,0
+757,Link Stack,professional,Lost,2,2,1,5,184,24,488.42,21.79,0
+758,VineHub,professional,Lost,2,1,2,5,197,20,836.3199999999999,20.79,1
+759,LinkStudio,free,Potential Loyalists,3,1,2,6,168,20,851.54,21.2,0
+760,SyncSoftware,starter,Needs Attention,2,1,4,7,190,16,2780.45,17.77,1
+761,EchoDigital,free,Lost,1,1,2,4,221,19,989.5500000000001,17.94,0
+762,Wave Cloud,starter,Cannot Lose Them,1,3,1,5,285,25,242.22,24.42,0
+763,CloudPlatform,professional,Needs Attention,2,2,4,8,197,21,2891.98,21.04,0
+764,Quest Works,professional,Needs Attention,1,1,4,6,291,20,3513.6800000000003,20.49,1
+765,Nova Corp,free,Champions,4,4,4,12,147,33,2811.08,27.57,1
+766,QuestLogic,professional,Needs Attention,1,1,4,6,215,14,2381.42,14.6,0
+767,Mist Solutions,enterprise,Potential Loyalists,3,2,2,7,175,24,858.5,23.61,0
+768,BeamTech,starter,Needs Attention,1,1,3,5,372,11,1152.16,14.01,0
+769,UnitSystems,enterprise,Promising,4,4,1,9,151,37,90.28,30.7,0
+770,BeamAnalytics,professional,Potential Loyalists,4,1,4,9,142,14,3511.53,16.0,0
+771,Vertex Net,professional,Promising,3,4,1,8,175,28,497.79999999999995,24.82,1
+772,SyncHub,free,Cannot Lose Them,1,4,1,6,224,29,545.76,27.43,1
+773,Flux Corp,starter,Needs Attention,1,2,4,7,232,24,2624.71,23.41,1
+774,YieldDev,free,Lost,1,1,1,3,228,19,607.48,20.31,0
+775,HubSoftware,starter,Promising,4,3,1,8,155,26,289.56,23.98,0
+776,Arc Software,starter,Needs Attention,1,2,4,7,227,23,2971.6899999999996,19.61,1
+777,LinkCorp,starter,Needs Attention,1,1,4,6,376,20,5284.33,19.02,0
+778,Yield Analytics,starter,Promising,3,4,2,9,162,29,984.35,24.61,0
+779,TidalCloud,enterprise,Needs Attention,2,3,1,6,206,25,642.91,23.35,0
+780,IonLogic,starter,Potential Loyalists,4,2,1,7,150,22,406.22,21.65,0
+781,JadeCorp,starter,Lost,1,2,1,4,253,24,542.0799999999999,21.98,0
+782,Core Solutions,free,Lost,1,2,2,5,228,21,745.45,20.67,0
+783,Nexus Dev,free,At Risk,2,3,4,9,205,27,2764.06,25.53,0
+784,TrekSoftware,starter,Champions,4,4,4,12,145,30,2661.07,25.88,0
+785,MistWorks,professional,Potential Loyalists,4,1,2,7,155,19,802.8299999999999,20.94,0
+786,Zeal Group,starter,At Risk,2,4,3,9,182,31,1973.1999999999998,27.22,0
+787,UnitSolutions,starter,At Risk,1,4,3,8,228,30,2052.79,25.13,0
+788,WarpAnalytics,free,Needs Attention,1,1,4,6,274,20,8302.619999999999,20.09,1
+789,TrekSolutions,professional,Lost,1,1,2,4,216,15,1120.16,15.4,0
+790,Acme Analytics,starter,Champions,4,4,4,12,146,32,3173.33,26.54,1
+791,EchoSolutions,professional,Loyal Customers,3,4,4,11,170,33,2571.35,26.49,0
+792,Onyx Systems,professional,Potential Loyalists,3,2,2,7,164,24,1009.95,21.41,0
+793,Peak Platform,enterprise,Needs Attention,1,1,4,6,213,18,4836.34,18.42,1
+794,PulseVentures,professional,At Risk,1,3,3,7,227,25,1203.67,23.9,0
+795,Acme Ventures,professional,At Risk,2,4,3,9,183,31,1919.75,25.81,0
+796,Iris Platform,free,At Risk,1,3,3,7,230,25,2180.83,22.71,0
+797,EdgeHub,starter,Lost,1,2,1,4,406,22,553.49,21.7,0
+798,NexusSoftware,starter,Needs Attention,1,2,4,7,250,23,3162.39,21.92,0
+799,Quark IO,professional,Needs Attention,2,2,3,7,185,23,1982.68,21.0,0
+800,Arc Studio,professional,At Risk,2,3,4,9,185,27,3118.04,23.15,0
+801,UltraCorp,professional,At Risk,1,4,3,8,239,30,1405.33,26.83,1
+802,CloudHub,professional,Needs Attention,2,3,2,7,185,26,947.29,22.8,0
+803,Vine Tech,professional,Cannot Lose Them,1,3,2,6,221,26,939.8100000000001,24.92,1
+804,Zeal Tech,free,Potential Loyalists,3,1,4,8,164,19,2788.81,18.33,1
+805,Arc Corp,professional,Promising,3,4,1,8,162,29,627.84,28.1,0
+806,Vertex Stack,starter,Cannot Lose Them,1,3,1,5,225,27,263.3,25.35,0
+807,WarpTech,enterprise,Potential Loyalists,3,2,2,7,166,24,965.5,23.23,1
+808,BoltLogic,starter,Loyal Customers,4,3,4,11,151,27,3778.48,24.42,0
+809,Zeal Digital,professional,Potential Loyalists,3,2,3,8,159,23,1894.4899999999998,22.13,0
+810,Kite Corp,professional,Potential Loyalists,4,2,3,9,143,23,2095.54,23.33,0
+811,Yield Ventures,free,Promising,3,3,1,7,168,26,368.12,23.21,1
+812,BoltLabs,professional,Loyal Customers,4,3,3,10,153,27,1790.72,24.97,0
+813,EchoLabs,starter,Promising,3,3,1,7,166,27,399.38,23.32,1
+814,Nexus Corp,free,Lost,2,1,2,5,204,12,725.2,15.09,1
+815,Echo AI,starter,Loyal Customers,4,4,3,11,149,35,1442.66,28.67,1
+816,Mist Stack,professional,Lost,1,2,2,5,225,22,832.07,19.56,0
+817,IonPlatform,starter,Needs Attention,2,3,1,6,212,25,638.49,22.09,0
+818,KeenAnalytics,starter,Needs Attention,2,1,3,6,205,18,1316.8600000000001,18.88,0
+819,AcmeDigital,professional,Needs Attention,1,2,4,7,215,22,2607.12,21.59,0
+820,CoreSoftware,professional,Promising,4,3,1,8,157,26,483.40000000000003,23.22,1
+821,VertexHub,starter,Loyal Customers,3,4,3,10,177,28,1269.18,25.07,0
+822,GlowSolutions,starter,Lost,1,1,2,4,279,15,1132.96,17.27,0
+823,IrisStudio,starter,Loyal Customers,4,3,3,10,143,26,2064.62,24.26,0
+824,Zen Cloud,enterprise,Loyal Customers,3,4,3,10,174,30,1270.06,27.35,0
+825,KiteHub,enterprise,Promising,3,4,2,9,164,38,893.9,33.39,0
+826,UltraLabs,professional,Potential Loyalists,4,1,2,7,151,15,1013.15,16.55,0
+827,VertexAnalytics,starter,Promising,4,4,1,9,143,37,480.38,30.92,0
+828,OnyxSystems,free,Needs Attention,1,1,3,5,227,20,1995.5400000000002,20.4,0
+829,Grid Ventures,starter,Loyal Customers,3,3,4,10,173,27,2516.9,24.84,0
+830,Peak HQ,free,At Risk,2,3,3,8,204,25,1672.54,22.86,0
+831,BoltPro,free,Promising,3,3,2,8,174,26,875.84,25.42,1
+832,WarpStudio,professional,Needs Attention,1,2,3,6,225,23,1321.5,21.03,1
+833,NexusIO,starter,Promising,4,4,2,10,142,29,757.06,25.43,1
+834,Trek Group,starter,Potential Loyalists,3,2,1,6,168,23,495.41999999999996,23.29,0
+835,Orbit Net,professional,Potential Loyalists,4,2,3,9,148,22,1140.44,20.33,0
+836,Xenon Analytics,free,Promising,4,4,1,9,153,33,397.73,27.65,0
+837,Mist Platform,free,Promising,3,3,2,8,160,25,1013.01,23.5,0
+838,Core Dynamics,professional,Promising,3,4,1,8,172,28,631.8100000000001,25.34,0
+839,TrekHub,starter,Loyal Customers,3,3,3,9,172,26,2131.57,24.04,0
+840,ZealDynamics,starter,Promising,4,4,1,9,153,33,388.61,27.01,0
+841,PulseGroup,professional,Loyal Customers,3,3,3,9,164,25,1228.79,23.08,0
+842,Tidal Studio,professional,Potential Loyalists,3,2,1,6,158,22,213.51999999999998,22.64,0
+843,Jade AI,professional,Lost,1,1,1,3,381,19,137.6,20.34,1
+844,MetaStack,starter,Lost,1,2,2,5,263,24,1015.59,22.76,0
+845,CoreLabs,starter,Lost,2,1,2,5,186,20,677.79,20.63,0
+846,YieldHQ,professional,Needs Attention,2,2,4,8,192,21,6239.58,20.1,1
+847,HiveTech,starter,Potential Loyalists,3,2,1,6,160,22,148.41,20.4,0
+848,ZenCorp,starter,Potential Loyalists,4,1,4,9,155,19,2878.2999999999997,19.11,0
+849,Flow Cloud,enterprise,Potential Loyalists,3,2,3,8,159,22,1659.6899999999998,19.7,0
+850,RiftCorp,starter,Needs Attention,2,4,1,7,181,29,376.78000000000003,24.09,1
+851,NovaVentures,starter,At Risk,2,3,4,9,186,25,2451.95,23.37,0
+852,OrbitStudio,professional,Needs Attention,2,2,3,7,210,24,2333.2400000000002,23.78,0
+853,PeakPro,starter,Lost,1,2,2,5,435,21,876.44,19.15,0
+854,VineAnalytics,professional,Potential Loyalists,3,1,2,6,160,20,982.73,20.17,0
+855,FlowDynamics,starter,Potential Loyalists,4,2,4,10,146,23,3907.91,22.34,1
+856,QuestDev,free,Promising,4,4,2,10,142,29,1091.63,23.66,0
+857,Sync Dev,professional,Promising,3,4,1,8,178,30,296.14,25.68,0
+858,Ultra AI,starter,Potential Loyalists,3,1,1,5,169,19,241.95,20.32,0
+859,Orbit Hub,starter,Promising,3,3,2,8,165,25,934.01,21.85,0
+860,Flux Group,professional,Cannot Lose Them,1,3,2,6,248,26,877.92,23.47,1
+861,KiteStudio,starter,Lost,1,1,2,4,237,16,708.51,16.8,1
+862,Nova Net,free,Loyal Customers,3,4,4,11,161,31,2939.88,25.87,0
+863,TidalHub,professional,Needs Attention,2,4,1,7,206,31,549.06,26.35,1
+864,Zen Ventures,starter,Needs Attention,2,3,1,6,208,25,430.09,22.16,0
+865,FlowWorks,starter,Loyal Customers,3,3,4,10,174,27,4066.1499999999996,25.94,0
+866,Jade Solutions,professional,Loyal Customers,3,4,4,11,161,29,3740.96,26.06,0
+867,HubOps,professional,At Risk,2,4,4,10,181,35,2828.5499999999997,29.07,1
+868,Tidal Ops,professional,Needs Attention,1,1,3,5,226,20,1786.56,20.09,0
+869,BoltGroup,starter,Potential Loyalists,3,2,4,9,172,24,2615.59,22.51,0
+870,QuarkHQ,professional,Needs Attention,2,3,1,6,187,27,563.0899999999999,24.57,0
+871,Yield Software,starter,Needs Attention,2,1,4,7,188,18,3611.5099999999998,17.19,0
+872,Meta IO,enterprise,Promising,4,4,1,9,141,29,310.47,25.0,1
+873,EdgeLabs,free,Potential Loyalists,3,2,3,8,165,22,1678.18,22.11,0
+874,MetaPro,starter,Needs Attention,1,1,3,5,409,20,1202.82,21.81,0
+875,JetDynamics,free,Needs Attention,1,1,3,5,289,20,1181.56,20.74,1
+876,Wave Pro,starter,Potential Loyalists,3,2,4,9,172,23,2913.23,20.78,0
+877,FlowOps,enterprise,Needs Attention,1,2,3,6,232,21,2007.76,21.55,0
+878,EchoStudio,starter,Potential Loyalists,4,1,2,7,155,20,887.03,20.61,0
+879,DriftHQ,free,Promising,3,4,1,8,159,31,603.25,28.16,1
+880,JetVentures,free,At Risk,2,4,4,10,188,35,3901.6600000000003,31.56,0
+881,OrbitSoftware,free,At Risk,1,3,4,8,215,27,3137.02,26.45,0
+882,JetPlatform,professional,Needs Attention,1,1,4,6,238,19,3210.2,19.69,0
+883,OrbitWorks,enterprise,Loyal Customers,4,3,3,10,143,27,2305.26,23.47,0
+884,PulseIO,free,Needs Attention,2,1,4,7,201,20,3123.28,18.29,0
+885,Jet Studio,free,Cannot Lose Them,1,3,2,6,406,26,665.77,23.72,0
+886,Mist Group,starter,At Risk,1,4,3,8,220,35,1518.19,30.37,0
+887,Sync Labs,starter,Needs Attention,2,2,3,7,189,24,1610.81,22.77,0
+888,Ultra Dynamics,professional,Needs Attention,2,1,4,7,199,17,3625.8,18.72,1
+889,GlowAI,free,Promising,4,4,2,10,144,29,797.79,25.41,1
+890,Flow Software,professional,Lost,1,2,1,4,238,24,133.21,23.32,0
+891,WarpPlatform,starter,Needs Attention,2,4,2,8,189,31,847.5899999999999,27.98,0
+892,Link AI,starter,Potential Loyalists,4,2,4,10,153,23,5727.2300000000005,21.99,1
+893,RushDynamics,starter,Potential Loyalists,4,2,1,7,143,23,493.08,21.73,0
+894,Yield Systems,professional,Needs Attention,1,1,4,6,342,20,3331.3500000000004,19.3,0
+895,Bolt Cloud,starter,Needs Attention,2,2,3,7,205,24,1727.73,23.01,0
+896,FluxIO,enterprise,Potential Loyalists,4,2,4,10,153,22,2788.25,19.25,1
+897,CoreLogic,free,Champions,4,4,4,12,150,31,2705.95,26.77,0
+898,Nova Systems,professional,Promising,4,3,1,8,147,26,378.77,23.94,1
+899,Rift Logic,free,Needs Attention,1,1,3,5,295,18,1373.18,17.77,0
+900,Rush Software,starter,Promising,3,4,2,9,169,33,721.58,29.31,0
+901,Xenon Tech,starter,Potential Loyalists,4,2,3,9,152,21,1178.6200000000001,20.41,1
+902,Rift Hub,starter,Loyal Customers,3,4,4,11,168,31,2968.4300000000003,24.62,0
+903,OnyxDigital,starter,At Risk,1,3,4,8,344,26,2387.81,22.17,1
+904,QuarkDynamics,starter,Potential Loyalists,3,2,2,7,165,22,833.9000000000001,21.03,0
+905,OrbitVentures,professional,Lost,1,2,1,4,268,21,505.19999999999993,19.84,0
+906,EdgeNet,professional,Loyal Customers,4,3,3,10,146,27,1224.07,24.54,0
+907,EdgeAnalytics,professional,Potential Loyalists,4,1,1,6,147,19,112.22,19.79,0
+908,OnyxGroup,professional,Needs Attention,2,2,4,8,198,21,2922.2700000000004,21.95,0
+909,SageVentures,enterprise,Potential Loyalists,3,1,1,5,178,13,226.56,13.84,1
+910,DriftLogic,free,Loyal Customers,3,3,3,9,163,25,1957.31,23.36,1
+911,Luna HQ,professional,Lost,1,2,1,4,230,21,450.89,20.25,0
+912,Vertex Corp,free,Champions,4,4,4,12,154,35,3070.14,29.59,0
+913,Vertex Ops,starter,Promising,3,4,2,9,160,28,717.3199999999999,24.96,1
+914,RushCorp,free,Loyal Customers,3,4,3,10,159,37,1950.1599999999999,30.12,0
+915,Keen Solutions,free,Lost,1,2,1,4,218,21,299.28,20.62,1
+916,TidalDigital,free,Potential Loyalists,4,1,2,7,145,14,870.55,17.12,0
+917,MetaOps,enterprise,Needs Attention,1,1,4,6,240,17,3027.9300000000003,18.25,0
+918,PulseStack,professional,Loyal Customers,3,4,3,10,173,33,2314.41,28.53,0
+919,OrbitPro,enterprise,Promising,3,4,1,8,162,28,513.52,24.52,0
+920,Rush Logic,professional,Promising,4,4,1,9,142,35,556.5699999999999,30.04,0
+921,Flux Works,starter,Needs Attention,1,1,4,6,356,18,2987.73,19.86,0
+922,HiveOps,free,Needs Attention,1,2,3,6,236,23,2151.61,22.43,0
+923,TrekDynamics,professional,Lost,1,1,2,4,214,19,955.92,20.31,0
+924,LunaStack,free,Loyal Customers,3,4,3,10,170,38,2035.06,30.34,0
+925,DriftDynamics,free,Loyal Customers,3,3,3,9,164,25,1815.5800000000002,22.43,0
+926,XenonHub,free,At Risk,1,3,3,7,214,26,2007.74,24.56,0
+927,Beam Platform,professional,Potential Loyalists,3,2,3,8,158,23,2131.01,21.51,1
+928,KiteTech,professional,Needs Attention,2,2,4,8,187,21,2715.64,20.76,0
+929,Tidal Corp,professional,Potential Loyalists,4,2,4,10,143,22,2513.75,21.13,0
+930,Rift IO,free,Lost,2,2,2,6,202,21,876.92,22.73,0
+931,Ultra Studio,free,Promising,3,3,1,7,159,25,240.85999999999999,24.41,0
+932,TrekLabs,free,At Risk,2,3,3,8,184,26,1157.1200000000001,23.2,0
+933,HiveGroup,starter,Lost,2,2,1,5,181,23,623.8199999999999,21.51,0
+934,Beam Analytics,enterprise,Promising,3,4,2,9,166,38,1075.8,32.79,0
+935,SyncDynamics,professional,Champions,4,4,4,12,143,30,4474.13,26.62,0
+936,ZealHQ,free,Promising,3,3,2,8,158,25,754.46,24.45,0
+937,DriftPlatform,free,Champions,4,4,4,12,145,32,2727.38,28.14,1
+938,JadeDynamics,professional,Potential Loyalists,3,1,2,6,171,18,891.06,18.26,0
+939,HubGroup,free,Promising,3,4,1,8,177,32,365.84000000000003,27.41,0
+940,PeakCloud,starter,Lost,1,1,2,4,248,20,1047.38,19.04,0
+941,Data Studio,free,At Risk,2,4,3,9,205,36,2164.4900000000002,29.53,0
+942,EdgeStudio,professional,Potential Loyalists,3,1,2,6,160,19,1084.93,18.7,0
+943,VertexGroup,professional,Loyal Customers,3,4,4,11,170,30,3700.1400000000003,27.24,0
+944,TrekHQ,free,Lost,2,2,1,5,205,24,359.71,23.18,1
+945,Jet Corp,professional,Loyal Customers,4,3,3,10,152,27,2034.0900000000001,23.77,0
+946,XenonIO,professional,At Risk,2,3,3,8,194,26,1510.59,22.65,0
+947,OrbitLabs,professional,Lost,2,1,2,5,190,17,759.6800000000001,19.13,0
+948,OrbitPlatform,enterprise,Needs Attention,1,2,3,6,218,24,2201.21,23.49,1
+949,ZealWorks,professional,Potential Loyalists,4,2,3,9,151,23,2164.69,22.36,1
+950,Ultra Ventures,professional,Cannot Lose Them,1,4,1,6,214,32,0.0,28.18,0
+951,DataLabs,professional,Needs Attention,1,2,3,6,218,24,1271.14,23.33,1
+952,Link Cloud,enterprise,Potential Loyalists,4,1,1,6,153,19,224.88,20.58,1
+953,KiteNet,enterprise,Lost,1,1,2,4,238,17,719.7199999999999,18.33,0
+954,Data Ventures,free,Promising,3,4,2,9,158,28,1052.97,25.73,0
+955,HubStack,free,At Risk,2,3,3,8,197,25,1938.47,23.86,1
+956,YieldSolutions,starter,At Risk,2,3,3,8,197,27,1242.5,22.02,0
+957,ArcTech,enterprise,Needs Attention,1,2,3,6,283,23,1414.21,21.78,1
+958,GridIO,professional,At Risk,2,4,4,10,184,33,2918.2799999999997,29.51,0
+959,BeamHub,professional,Lost,2,2,2,6,207,23,665.85,22.27,1
+960,Peak AI,enterprise,Potential Loyalists,3,1,2,6,158,19,663.8,20.11,0
+961,Unit Hub,starter,Promising,3,3,1,7,173,26,480.55,23.66,0
+962,YieldDynamics,professional,Lost,1,1,2,4,335,19,1060.98,21.2,1
+963,Grid Hub,professional,Lost,2,2,2,6,186,24,1118.96,20.75,0
+964,Core Works,starter,Promising,3,4,2,9,159,30,1126.22,25.7,0
+965,IrisAnalytics,professional,Loyal Customers,4,3,3,10,143,26,1182.24,22.94,0
+966,Glow Hub,free,Loyal Customers,4,3,4,11,145,25,4909.75,22.29,0
+967,JadeHub,enterprise,Potential Loyalists,3,2,3,8,165,24,2091.42,22.48,0
+968,Grid Group,free,At Risk,1,3,3,7,254,25,2033.23,21.76,1
+969,PulseCloud,professional,Promising,3,4,2,9,169,34,903.45,30.59,0
+970,Ion Dev,starter,At Risk,1,4,3,8,290,35,2061.52,28.21,1
+971,FlowNet,starter,At Risk,2,3,3,8,208,27,1684.49,24.62,0
+972,Data Digital,free,Promising,4,3,1,8,143,25,580.56,22.46,0
+973,Peak Ventures,starter,Promising,4,4,2,10,143,28,674.03,25.24,0
+974,ArcLabs,free,Potential Loyalists,4,2,4,10,143,24,5472.87,22.54,0
+975,Nexus Systems,starter,Needs Attention,2,1,4,7,182,19,4024.83,18.74,0
+976,Edge Ops,starter,At Risk,1,3,4,8,217,25,3589.97,24.07,0
+977,YieldOps,enterprise,Lost,2,2,1,5,208,22,304.8,21.59,0
+978,Beam HQ,professional,Potential Loyalists,4,1,1,6,144,18,253.29000000000002,19.84,0
+979,Drift Studio,starter,Lost,1,1,2,4,269,17,821.88,17.38,1
+980,ZealPlatform,professional,Promising,3,4,2,9,159,31,791.09,26.97,1
+981,QuarkPlatform,enterprise,Potential Loyalists,3,1,3,7,168,19,1603.17,19.79,1
+982,Rush Ventures,enterprise,Potential Loyalists,3,2,3,8,169,22,1412.69,20.3,0
+983,OrbitCorp,professional,Promising,3,4,2,9,170,28,1023.88,23.8,0
+984,QuarkLabs,professional,Needs Attention,2,2,4,8,204,21,2733.3700000000003,19.7,0
+985,CloudIO,starter,Potential Loyalists,4,2,4,10,145,23,2477.3,24.23,0
+986,Sage Studio,free,Potential Loyalists,4,1,1,6,155,17,399.30999999999995,19.86,1
+987,DataOps,starter,Potential Loyalists,3,2,2,7,175,23,847.5899999999999,19.92,1
+988,Arc Systems,professional,Loyal Customers,3,4,3,10,159,33,1288.17,30.53,0
+989,MistDynamics,starter,Potential Loyalists,3,1,4,8,161,18,2877.45,18.81,0
+990,Data Platform,enterprise,Needs Attention,1,1,3,5,262,15,1426.96,15.07,1
+991,PulseDynamics,starter,At Risk,2,3,4,9,205,27,2511.9900000000002,23.77,0
+992,Jet Group,free,At Risk,1,4,3,8,214,28,1568.87,25.78,0
+993,Bolt Hub,professional,Cannot Lose Them,1,3,2,6,325,25,665.88,24.14,0
+994,OnyxPro,professional,Loyal Customers,3,3,4,10,160,25,2383.95,22.4,0
+995,Warp Cloud,starter,Loyal Customers,4,3,4,11,145,27,2808.49,25.89,1
+996,XenonPro,starter,Loyal Customers,4,3,3,10,144,25,1776.1999999999998,21.91,0
+997,Edge AI,free,Potential Loyalists,3,2,4,9,177,21,2884.33,22.1,1
+998,Trek Hub,starter,Loyal Customers,3,3,3,9,159,26,1670.1,23.93,0
+999,Pulse Corp,free,Promising,4,4,1,9,155,29,453.69000000000005,26.84,0
+1000,SyncStack,free,Needs Attention,1,1,3,5,295,19,1655.48,18.56,0
+1001,Flow IO,professional,Promising,3,3,1,7,177,25,258.17,24.31,1
+1002,RushWorks,professional,Needs Attention,1,2,4,7,254,22,3191.03,18.99,1
+1003,LinkWorks,starter,Lost,2,2,2,6,180,23,735.75,21.45,0
+1004,MetaPlatform,professional,Potential Loyalists,3,1,1,5,170,20,330.49,20.17,0
+1005,WarpGroup,enterprise,At Risk,2,3,4,9,205,27,3974.83,24.91,0
+1006,LunaSoftware,professional,Cannot Lose Them,1,4,1,6,242,33,378.29999999999995,29.42,0
+1007,OnyxNet,starter,Loyal Customers,3,4,4,11,174,29,2454.88,27.11,0
+1008,DataTech,free,Promising,3,4,1,8,167,30,375.82000000000005,27.28,0
+1009,LinkDigital,starter,Champions,4,4,4,12,148,28,3255.95,26.01,0
+1010,FlowAnalytics,free,Loyal Customers,3,3,4,10,165,25,2926.4199999999996,22.88,1
+1011,Zeal Labs,free,Lost,1,2,1,4,378,21,628.07,20.82,0
+1012,Luna Hub,professional,Cannot Lose Them,1,3,1,5,367,27,582.86,25.47,0
+1013,SyncPro,professional,Potential Loyalists,3,1,3,7,168,17,1545.39,17.27,0
+1014,Peak Studio,free,Lost,1,2,2,5,351,24,967.95,23.05,0
+1015,QuarkVentures,starter,Promising,3,4,1,8,169,34,434.48,28.74,0
+1016,Iris Studio,professional,Promising,4,3,1,8,143,25,212.07999999999998,23.89,0
+1017,Zeal Platform,professional,Loyal Customers,3,3,3,9,163,27,1445.01,23.37,1
+1018,BoltStack,starter,Loyal Customers,3,4,3,10,162,28,1819.92,27.67,0
+1019,Jet Net,starter,At Risk,2,3,4,9,207,25,3000.65,22.45,0
+1020,Jade Logic,professional,Needs Attention,2,4,2,8,179,32,947.1700000000001,27.24,0
+1021,ZealSoftware,professional,Promising,4,4,2,10,150,32,691.75,29.51,0
+1022,GlowAnalytics,free,Lost,2,2,1,5,183,23,115.63,20.24,0
+1023,DataSystems,enterprise,Potential Loyalists,4,2,3,9,147,21,1993.91,20.58,0
+1024,Arc Hub,free,Needs Attention,2,4,2,8,202,31,903.38,26.24,0
+1025,FluxHQ,professional,At Risk,2,4,3,9,198,40,1239.3200000000002,33.42,0
+1026,VineIO,free,Potential Loyalists,4,1,3,8,154,19,2331.59,18.76,1
+1027,Drift Platform,enterprise,Potential Loyalists,4,2,3,9,156,21,2111.0699999999997,19.92,0
+1028,GlowOps,starter,At Risk,2,3,4,9,210,27,5035.96,24.48,0
+1029,GridLogic,professional,Needs Attention,2,1,4,7,197,16,4887.11,16.44,1
+1030,Hive Corp,professional,Potential Loyalists,4,1,2,7,152,19,1062.15,17.67,0
+1031,Rift Works,starter,At Risk,2,3,3,8,194,25,1882.96,24.24,0
+1032,ZenOps,free,Potential Loyalists,4,1,2,7,152,19,819.99,19.6,0
+1033,WarpLabs,professional,At Risk,2,4,4,10,195,31,2554.2,26.71,0
+1034,CoreSystems,free,Lost,1,1,1,3,338,20,343.24,19.31,1
+1035,JadeVentures,enterprise,Potential Loyalists,3,2,2,7,176,21,1009.9300000000001,20.53,1
+1036,Mist Works,professional,Needs Attention,2,1,4,7,194,20,3604.3,19.39,0
+1037,SageStack,starter,At Risk,2,3,4,9,184,26,3618.5000000000005,25.3,1
+1038,DriftIO,free,Potential Loyalists,4,1,1,6,145,20,532.17,20.59,0
+1039,Peak Dynamics,starter,Promising,3,4,1,8,162,28,350.95,25.68,0
+1040,Vine Works,starter,Potential Loyalists,4,2,3,9,152,21,1493.23,18.89,0
+1041,Ion Ops,free,Potential Loyalists,3,1,2,6,167,19,842.23,19.17,0
+1042,Warp Works,professional,Needs Attention,2,1,4,7,195,17,4681.91,16.72,0
+1043,NexusSystems,free,Needs Attention,1,1,3,5,217,18,1490.91,19.09,0
+1044,Xenon Software,starter,Cannot Lose Them,1,3,2,6,332,26,967.81,22.66,0
+1045,Nexus Analytics,starter,Promising,3,3,2,8,164,26,693.96,23.43,1
+1046,JadeAI,free,Potential Loyalists,4,1,4,9,149,14,2461.3599999999997,16.82,0
+1047,DataWorks,professional,Cannot Lose Them,1,3,2,6,223,26,750.28,21.95,0
+1048,UltraNet,free,Lost,1,1,2,4,296,20,846.28,20.69,0
+1049,OnyxPlatform,starter,Potential Loyalists,4,2,1,7,145,23,577.84,21.92,0
+1050,Grid Cloud,professional,Potential Loyalists,4,1,4,9,156,15,2470.6899999999996,17.06,0
+1051,BeamHQ,enterprise,Lost,2,2,2,6,191,21,995.1800000000001,20.17,0
+1052,Luna Net,free,At Risk,1,3,4,8,261,25,4396.52,22.81,0
+1053,Kite Hub,starter,Promising,4,3,2,9,157,25,1081.43,23.95,0
+1054,NexusTech,starter,Promising,4,4,1,9,154,28,519.54,26.82,1
+1055,NovaSoftware,free,Potential Loyalists,3,2,1,6,176,23,420.91999999999996,23.34,1
+1056,UnitCorp,enterprise,At Risk,2,3,4,9,182,27,3654.23,24.92,0
+1057,UltraDynamics,starter,Cannot Lose Them,1,3,1,5,227,25,626.12,21.25,0
+1058,QuarkAnalytics,free,At Risk,2,4,4,10,197,30,2592.92,27.47,0
+1059,Pulse Ops,professional,Lost,1,2,2,5,337,21,820.12,21.21,0
+1060,ZenPro,free,Needs Attention,1,1,3,5,222,20,1354.36,20.05,0
+1061,Vine Pro,starter,Needs Attention,2,3,1,6,185,25,193.51,24.09,0
+1062,WaveSolutions,starter,Promising,3,3,1,7,158,27,527.51,22.98,0
+1063,Rush Stack,professional,Cannot Lose Them,1,4,1,6,254,28,511.9,26.92,1
+1064,ZenAI,free,Needs Attention,1,1,3,5,217,20,1285.51,19.97,0
+1065,HubSystems,starter,At Risk,2,3,4,9,193,27,2844.54,24.35,0
+1066,MetaGroup,starter,Needs Attention,2,3,1,6,189,25,252.3,22.34,0
+1067,RiftLogic,free,Needs Attention,2,1,4,7,204,18,2691.76,19.99,1
+1068,KeenGroup,professional,Promising,3,3,2,8,169,26,929.87,23.98,1
+1069,Bolt Analytics,professional,Champions,4,4,4,12,146,28,4561.88,26.17,1
+1070,CorePro,enterprise,Needs Attention,2,4,1,7,185,28,573.1,25.95,0
+1071,UltraAnalytics,starter,Loyal Customers,3,4,4,11,168,29,2761.48,27.57,1
+1072,XenonCorp,free,Needs Attention,2,2,3,7,195,22,2100.66,19.98,0
+1073,Quark HQ,free,Needs Attention,2,2,4,8,181,24,2970.33,22.27,1
+1074,Acme Dev,professional,Lost,2,2,2,6,210,21,715.94,19.7,0
+1075,FlowSoftware,starter,Promising,3,4,2,9,177,29,715.1700000000001,25.81,0
+1076,Zen Solutions,professional,Promising,4,4,1,9,156,28,0.0,25.1,0
+1077,Jade Labs,enterprise,Loyal Customers,3,3,3,9,177,25,1733.8200000000002,22.76,0
+1078,Pulse Digital,free,Needs Attention,2,2,3,7,182,23,2099.43,23.75,0
+1079,Quark AI,enterprise,Potential Loyalists,3,2,4,9,161,24,3350.6800000000003,22.04,0
+1080,KeenLabs,free,Loyal Customers,3,4,4,11,178,28,2932.69,24.35,0
+1081,Edge Software,starter,Potential Loyalists,4,2,3,9,148,22,1197.7199999999998,21.66,0
+1082,WarpWorks,starter,Loyal Customers,3,4,3,10,163,28,1408.18,25.9,0
+1083,KiteCorp,professional,Cannot Lose Them,1,3,2,6,247,25,897.93,22.43,1
+1084,GlowGroup,starter,Champions,4,4,4,12,154,36,4602.25,30.28,0
+1085,EdgeDynamics,professional,Lost,2,1,2,5,189,20,917.26,21.47,0
+1086,Cloud Corp,professional,Needs Attention,2,1,3,6,193,20,1397.17,19.8,0
+1087,Kite Group,professional,Loyal Customers,3,3,3,9,161,26,2274.9700000000003,25.2,0
+1088,CloudVentures,starter,Lost,2,2,1,5,189,23,318.16999999999996,22.03,0
+1089,LinkOps,enterprise,Promising,3,4,1,8,173,32,365.43,28.13,0
+1090,Acme Digital,professional,Cannot Lose Them,1,3,2,6,230,25,917.87,24.02,0
+1091,GlowVentures,professional,Lost,1,1,1,3,279,15,388.88,17.57,1
+1092,PulseStudio,starter,Needs Attention,2,4,1,7,190,31,363.53,28.23,0
+1093,QuarkWorks,starter,At Risk,2,3,3,8,212,25,1205.32,22.42,0
+1094,BeamWorks,professional,Promising,4,4,1,9,149,32,470.03,28.93,0
+1095,Quark Group,professional,Loyal Customers,3,3,4,10,173,26,6630.51,23.76,0
+1096,OnyxLogic,starter,Promising,4,4,1,9,153,30,435.22,27.62,0
+1097,LinkAnalytics,professional,Loyal Customers,4,3,4,11,147,26,4107.84,25.41,0
+1098,SageLogic,starter,Lost,2,1,1,4,200,15,611.96,18.11,0
+1099,NovaCorp,free,Lost,2,2,2,6,179,21,1125.02,19.45,0
+1100,Sync Logic,professional,Lost,2,2,2,6,189,24,844.0699999999999,21.09,0
+1101,FluxHub,professional,Lost,1,2,2,5,218,23,789.53,21.64,0
+1102,QuarkLogic,starter,Needs Attention,2,4,1,7,194,34,656.9300000000001,28.22,0
+1103,Luna Systems,starter,Potential Loyalists,3,2,4,9,165,24,5332.0,22.64,0
+1104,Luna Analytics,starter,At Risk,2,4,3,9,183,37,1366.46,30.62,1
+1105,EchoNet,professional,Lost,1,2,1,4,251,22,633.64,20.0,0
+1106,ArcAnalytics,professional,Potential Loyalists,3,2,4,9,175,21,2549.81,21.16,0
+1107,VertexPlatform,professional,At Risk,2,4,3,9,184,28,1486.76,25.77,1
+1108,GlowWorks,free,Potential Loyalists,3,2,4,9,172,21,2820.49,20.14,0
+1109,Iris Group,free,Needs Attention,1,1,4,6,224,19,4335.95,17.83,0
+1110,QuestCloud,starter,Promising,3,4,1,8,173,28,309.57,25.28,1
+1111,EdgeGroup,professional,Promising,3,4,1,8,158,28,646.87,23.49,0
+1112,SyncDev,free,Potential Loyalists,4,2,2,8,157,21,770.87,21.7,1
+1113,Rift Stack,starter,At Risk,1,3,4,8,229,25,2344.59,23.53,0
+1114,LinkDev,free,Cannot Lose Them,1,3,2,6,350,25,1017.42,24.56,0
+1115,Flow Pro,enterprise,Promising,3,4,1,8,171,30,652.79,26.38,0
+1116,Hub Stack,free,Champions,4,4,4,12,142,29,3258.07,26.16,0
+1117,Acme Labs,professional,Lost,1,2,2,5,223,21,830.0,20.42,0
+1118,JadeCloud,free,At Risk,1,4,3,8,262,33,1750.7599999999998,28.15,0
+1119,BoltHQ,free,Needs Attention,2,1,3,6,194,16,1196.17,16.71,1
+1120,Acme Stack,starter,Potential Loyalists,3,1,1,5,165,15,597.7,15.64,0
+1121,ZealGroup,enterprise,Lost,1,1,1,3,223,20,561.3,20.52,0
+1122,KiteLogic,professional,At Risk,2,3,4,9,207,27,2607.65,23.41,0
+1123,IonLabs,professional,At Risk,2,4,3,9,205,33,2296.47,28.33,0
+1124,KeenStudio,professional,Loyal Customers,3,4,4,11,159,28,4095.51,25.05,0
+1125,SyncLogic,professional,Potential Loyalists,3,2,1,6,157,22,302.25,21.7,0
+1126,Echo Works,starter,Lost,1,1,1,3,310,18,616.05,19.16,0
+1127,RiftCloud,free,Promising,3,3,1,7,166,25,213.49,23.81,0
+1128,Zen Platform,professional,Needs Attention,2,2,3,7,187,23,2270.48,21.39,0
+1129,JadeGroup,starter,Potential Loyalists,4,2,1,7,156,23,431.14,21.11,0
+1130,EdgeLogic,professional,Lost,1,2,1,4,270,22,606.84,19.24,0
+1131,Luna Corp,starter,At Risk,2,3,3,8,203,26,1553.56,23.46,1
+1132,Echo Analytics,starter,Promising,4,3,1,8,151,25,477.48,22.96,0
+1133,HubCorp,starter,Loyal Customers,3,4,3,10,173,33,1739.78,28.39,0
+1134,CloudAnalytics,free,At Risk,2,3,3,8,209,27,1655.8899999999999,23.86,0
+1135,CoreAnalytics,free,Loyal Customers,3,4,3,10,166,30,1197.99,27.47,1
+1136,TidalDynamics,starter,Potential Loyalists,4,2,3,9,156,21,2312.72,19.37,0
+1137,UnitLabs,enterprise,Potential Loyalists,4,2,4,10,146,22,2450.31,21.05,1
+1138,Onyx Labs,professional,Needs Attention,1,2,3,6,263,24,1355.55,22.59,0
+1139,Hub Works,starter,Promising,4,4,2,10,152,39,834.1,31.47,0
+1140,WaveNet,free,Potential Loyalists,3,2,1,6,178,24,483.52,21.7,0
+1141,NovaNet,starter,Potential Loyalists,4,2,3,9,143,21,1213.6599999999999,18.28,0
+1142,OrbitStack,starter,At Risk,1,3,3,7,239,26,1680.73,24.14,1
+1143,Bolt Logic,professional,Lost,1,1,2,4,360,20,840.97,20.01,0
+1144,Zen IO,starter,Promising,4,4,1,9,150,29,590.27,25.9,0
+1145,QuarkDigital,professional,Cannot Lose Them,1,3,1,5,275,25,303.91,21.64,0
+1146,Vine AI,starter,At Risk,2,4,3,9,200,29,1177.83,25.78,0
+1147,Hub Tech,starter,Potential Loyalists,4,2,2,8,143,21,882.1,20.47,0
+1148,KeenDynamics,starter,Cannot Lose Them,1,4,1,6,337,28,521.11,23.78,0
+1149,ArcOps,free,Lost,2,1,2,5,194,14,950.3199999999999,15.78,0
+1150,Wave Solutions,enterprise,Champions,4,4,4,12,152,33,2346.63,27.52,0
+1151,WaveDev,starter,Needs Attention,2,1,3,6,197,18,1499.9299999999998,20.16,0
+1152,UnitVentures,starter,Potential Loyalists,4,2,4,10,146,21,3280.34,20.87,0
+1153,MistDigital,free,Cannot Lose Them,1,3,2,6,316,26,1048.7,25.32,1
+1154,Nova Group,starter,At Risk,1,4,4,9,250,33,3764.84,28.44,0
+1155,UnitDigital,starter,Potential Loyalists,3,2,1,6,171,21,421.67,20.69,1
+1156,Ion Digital,free,Lost,1,2,2,5,266,23,679.6800000000001,21.65,0
+1157,AcmeOps,enterprise,Potential Loyalists,4,1,1,6,151,17,570.3,17.48,0
+1158,ZealTech,professional,At Risk,1,3,4,8,364,26,2638.2999999999997,24.35,0
+1159,Vine Dynamics,starter,Potential Loyalists,3,2,1,6,169,21,122.62,20.95,0
+1160,Zen Digital,professional,Promising,3,3,1,7,166,25,186.46,22.37,0
+1161,ZenSoftware,professional,Loyal Customers,3,4,4,11,175,29,2548.0299999999997,25.54,1
+1162,Jet Analytics,starter,Loyal Customers,3,4,4,11,157,28,2646.48,27.64,0
+1163,IrisPro,professional,Needs Attention,1,1,3,5,234,19,2002.02,18.17,0
+1164,Vertex Platform,starter,Potential Loyalists,3,2,3,8,171,22,1171.6,21.79,0
+1165,Flow Net,starter,Cannot Lose Them,1,3,2,6,226,26,812.24,23.15,0
+1166,FluxWorks,free,Cannot Lose Them,1,3,2,6,236,25,845.55,20.94,0
+1167,XenonLabs,starter,Needs Attention,1,2,4,7,260,24,3345.9500000000003,23.91,0
+1168,ZenCloud,professional,At Risk,2,3,4,9,203,25,3758.56,23.69,0
+1169,SyncAI,starter,Needs Attention,2,4,1,7,179,29,605.31,25.64,0
+1170,Rift Labs,professional,Needs Attention,2,4,2,8,202,35,775.0699999999999,27.96,0
+1171,Kite Software,free,Needs Attention,2,2,3,7,201,22,1193.4,20.55,0
+1172,RiftLabs,professional,Cannot Lose Them,1,4,1,6,230,33,619.1800000000001,27.44,0
+1173,PeakAI,professional,Potential Loyalists,4,2,2,8,150,22,780.95,22.02,0
+1174,TidalSolutions,enterprise,Loyal Customers,3,4,3,10,161,33,1943.82,26.17,0
+1175,Nexus Studio,enterprise,Needs Attention,2,1,3,6,210,20,1518.1,19.76,0
+1176,Xenon Group,professional,At Risk,1,3,3,7,219,26,2212.17,24.71,0
+1177,AcmeCloud,enterprise,Cannot Lose Them,1,4,1,6,222,28,513.37,24.8,0
+1178,ZenTech,free,Potential Loyalists,3,1,4,8,170,19,3089.09,19.47,1
+1179,HubDigital,starter,Lost,1,1,2,4,269,20,933.29,19.54,0
+1180,Core Hub,free,Potential Loyalists,4,1,1,6,146,20,321.13,20.8,0
+1181,QuestPro,starter,At Risk,1,4,4,9,272,42,6273.25,34.2,1
+1182,RushSystems,starter,Lost,2,2,2,6,184,22,803.92,20.48,1
+1183,QuestAI,professional,Potential Loyalists,3,2,1,6,168,22,460.24,22.77,0
+1184,Edge Solutions,starter,Needs Attention,2,2,4,8,191,21,2901.72,20.46,0
+1185,LunaAI,starter,Lost,2,1,2,5,183,18,715.73,16.9,0
+1186,Meta Ventures,starter,Potential Loyalists,3,1,3,7,159,20,1895.22,20.65,0
+1187,Mist Hub,starter,Cannot Lose Them,1,3,2,6,251,25,886.56,22.25,0
+1188,WavePlatform,starter,At Risk,2,4,4,10,183,29,3718.2,26.53,1
+1189,Cloud Solutions,professional,Loyal Customers,4,3,4,11,142,26,3685.2799999999997,23.56,0
+1190,Ion Corp,enterprise,Loyal Customers,4,3,3,10,147,27,1311.0600000000002,22.93,0
+1191,WaveWorks,starter,Loyal Customers,4,4,3,11,148,28,2068.08,25.95,0
+1192,LinkHQ,starter,Needs Attention,2,1,3,6,181,14,2214.06,15.19,0
+1193,KeenHub,starter,Lost,1,2,2,5,224,23,953.34,22.83,0
+1194,Edge Cloud,starter,Lost,1,2,2,5,229,21,1071.01,21.6,0
+1195,Link Works,free,Needs Attention,2,3,2,7,185,25,697.89,23.54,0
+1196,Acme Hub,professional,Potential Loyalists,4,2,2,8,142,21,1057.92,21.26,0
+1197,Cloud Cloud,starter,Champions,4,4,4,12,152,30,5153.93,26.27,0
+1198,NovaPro,free,Loyal Customers,3,4,3,10,168,29,1143.25,25.27,0
+1199,FlowVentures,starter,Potential Loyalists,3,2,1,6,162,22,279.78,21.78,1
+1200,Arc Solutions,professional,Potential Loyalists,4,1,1,6,144,19,646.61,18.54,0
+1201,Acme Labs ,unknown,Potential Loyalists,4,1,1,6,151,19,0.0,21.23,0
+1202,AcmeLabs,unknown,Potential Loyalists,3,2,1,6,175,23,0.0,23.74,0
+1203,Unknown Corp,unknown,Needs Attention,2,4,1,7,200,28,0.0,23.59,0
+1204,,unknown,Cannot Lose Them,1,3,1,5,296,27,0.0,23.28,0
